@@ -9,7 +9,7 @@ description: "COPAAH - Collège Professionnel des Acteurs de l'Addictologie Hosp
     {{< icon "circle-info" >}}
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">Bienvenue sur le nouveau site Internet du COPAAH</span>
+    <span class="prose dark:prose-invert">Bienvenue sur le site Internet du COPAAH</span>
   </span>
 </div>
 
