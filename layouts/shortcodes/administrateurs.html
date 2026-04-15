@@ -1,0 +1,30 @@
+<section class="sponsors-section mt-4 mb-8">
+  <div class="bureauwrap flex flex-wrap justify-center gap-4">
+    
+    {{ $conseil := .Page.Params.Conseiladmin }}
+
+    {{ if $conseil }}
+        {{ range $index, $element := $conseil }}
+            {{ if eq (mod $index 6) 0 }}
+                {{ if ne $index 0 }}</div></div>{{ end }}
+                <div class="admincontainer group relative flex w-24 flex-col items-center">
+                  <div class="partneritem group relative flex w-24 flex-col items-center">
+            {{ end }}
+                {{ $decoupenom := split .name " " }}       
+                <p class="adminname">
+                    {{ index $decoupenom 0 }}
+                    <strong>
+                        {{ range $indexnom, $elementnom := $decoupenom }}
+                            {{ if ne $indexnom 0 }}
+                                {{ index $decoupenom $indexnom }}
+                                <span> </span>
+                            {{ end }}
+                        {{ end }}
+                    </strong>
+                </p>
+            <!-- {{ if eq (add $index 1) (len $conseil) }}</div>{{ end }} -->
+        {{ end }}
+    {{ end }}
+
+    </div>
+</section>

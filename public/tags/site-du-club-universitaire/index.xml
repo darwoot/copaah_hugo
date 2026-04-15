@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Du Club Universitaire on COPAAH</title>
+    <link>http://localhost:1313/tags/site-du-club-universitaire/</link>
+    <description>Recent content in Site Du Club Universitaire on COPAAH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>secretariat@copaah.fr (COPAAH)</managingEditor>
+    <webMaster>secretariat@copaah.fr (COPAAH)</webMaster>
+    <copyright>Copyright © 2026 COPAAH by AMoscaBianca. Tous droits réservés.</copyright>
+    <atom:link href="http://localhost:1313/tags/site-du-club-universitaire/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>georgiancodeclub.github.io</title>
+      <link>http://localhost:1313/users/7-25036bf87aa99ef82e09089a1ddbb9eb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/users/7-25036bf87aa99ef82e09089a1ddbb9eb/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/7-25036bf87aa99ef82e09089a1ddbb9eb/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

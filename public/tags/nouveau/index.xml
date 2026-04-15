@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nouveau on COPAAH</title>
+    <link>http://localhost:1313/tags/nouveau/</link>
+    <description>Recent content in Nouveau on COPAAH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>secretariat@copaah.fr (COPAAH)</managingEditor>
+    <webMaster>secretariat@copaah.fr (COPAAH)</webMaster>
+    <copyright>Copyright © 2026 COPAAH by AMoscaBianca. Tous droits réservés.</copyright>
+    <atom:link href="http://localhost:1313/tags/nouveau/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bienvenue sur Blowfish</title>
+      <link>http://localhost:1313/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/welcome/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Journées du COPAAH 2025</title>
+      <link>http://localhost:1313/docs/journeescopaah2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/journeescopaah2025/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2025/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Journées du COPAAH 2026</title>
+      <link>http://localhost:1313/docs/journeescopaah2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/journeescopaah2026/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2026/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Guide d&#39;hospitalisation de jour du COPAAH</title>
+      <link>http://localhost:1313/docs/guidehospitalisationdejour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/guidehospitalisationdejour/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/guidehospitalisationdejour/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Journées du COPAAH 2023</title>
+      <link>http://localhost:1313/docs/journeescopaah2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/journeescopaah2023/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2023/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

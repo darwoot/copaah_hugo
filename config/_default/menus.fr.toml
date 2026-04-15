@@ -1,0 +1,225 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "A propos"
+  pageRef = "apropos"
+  weight = 1
+
+[[main]]
+  name = "Missions"
+  parent = "A propos"
+  # pageRef = "about/#missions"
+  url = "/apropos/#missions"
+  weight = 2
+
+[[main]]
+  name = "Histoire"
+  parent = "A propos"
+  # pageRef = "about/#histoire"
+  url = "/apropos/#histoire"
+  weight = 3
+
+[[main]]
+  name = "Gouvernance"
+  parent = "A propos"
+  # pageRef = "about/#gouvernance"
+  url = "/apropos/#gouvernance"
+  weight = 4
+
+  [[main]]
+  name = "Représentation régionale"
+  parent = "A propos"
+  # pageRef = "about/#représentation-régionale"
+  url = "/apropos/#représentation-régionale"
+  weight = 4
+
+
+[[main]]
+  name = "Activités"
+  pageRef = "activites"
+  weight = 5
+
+[[main]]
+  name = "Journées du COPAAH"
+  parent = "Activités"
+  # pageRef = "activites/#journees-du-copaah"
+  url = "/activites/#journées-du-copaah"
+  weight = 6
+
+[[main]]
+  name = "Ateliers"
+  parent = "Activités"
+  # pageRef = "activites/#ateliers"
+  url = "/activites/#ateliers"
+  weight = 7
+
+[[main]]
+  name = "Groupes de travail"
+  parent = "Activités"
+  # pageRef = "activites/#groupes-de-travail"
+  url = "/activites/#groupes-de-travail"
+  weight = 8
+
+[[main]]
+  name = "Ressources"
+  pageRef = "docs"
+  weight = 9
+
+[[main]]
+ name = "Adhésion"
+ pageRef = "adhesion"
+ weight = 10
+
+[[main]]
+ name = "Contact"
+ pageRef = "contact"
+ weight = 11
+
+# [[main]]
+#   name = "Shortcodes"
+#   pageRef = "docs/shortcodes"
+#   weight = 15
+
+
+
+# [[main]]
+#   name = "Recettes"
+#   parent = "Exemples"
+#   pageRef = "guides"
+#   weight = 40
+
+# [[main]]
+#   name = "Utilisateurs"
+#   pageRef = "users"
+#   weight = 90
+
+
+# [[main]]
+#  name = "Accueil"
+#  pageRef = "accueil"
+#  weight = 10
+
+# [[main]]
+#  name = "Qui sommes-nous ?"
+#  parent = "Accueil"
+#  pageRef = "accueil"
+#  weight = 11
+
+# [[main]]
+#  name = "Missions"
+#  parent = "Accueil"
+#  pageRef = "accueil"
+#  weight = 12
+
+# [[main]]
+#  name = "Histoire"
+#  parent = "Accueil"
+#  pageRef = "accueil"
+#  weight = 13
+
+# [[main]]
+#  name = "Equipe"
+#  parent = "Accueil"
+#  pageRef = "accueil"
+#  weight = 14
+
+# [[main]]
+#  name = "Activités"
+#  pageRef = "activites"
+#  weight = 20
+
+# [[main]]
+#  name = "Journées du COPAAH"
+#  parent = "Activités"
+#  pageRef = "posts"
+#  weight = 21
+
+# [[main]]
+#  name = "Ateliers"
+#  parent = "Activités"
+#  pageRef = "posts"
+#  weight = 22
+
+# [[main]]
+#  name = "Groupes de Travail"
+#  parent = "Activités"
+#  pageRef = "posts"
+#  weight = 23
+
+
+
+
+
+# [[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+# [[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+
+
+
+
+
+# [[main]]
+#  name = "Adhérents"
+#  pageRef = "adherents"
+#  weight = 30
+
+# [[main]]
+#  name = "Contact"
+#  pageRef = "contact"
+#  weight = 40
+
+
+# [[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 50
+
+# [[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 60
+
+ [[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/company/copaah-coll%C3%A8ge-professionnel-des-acteurs-de-l-addictologie-hospitali%C3%A8re"
+  weight = 200
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+[[footer]]
+  name = "Mentions Légales"
+  pageRef = "mentionslegales"
+  weight = 5
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

@@ -1,0 +1,42 @@
+{{ with .Page.Params.Partenaires }}
+<section class="sponsors-section mt-16 mb-8">
+  <div class="bureauwrap flex flex-wrap justify-center gap-4">
+    {{ range . }}
+      <a
+        href="{{ .url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="partnerlink group relative flex w-24 flex-col items-center"
+        title="{{ .name }}"
+        aria-label="Partenaire: {{ .name }}">
+        <div class="partneritem group relative flex w-24 flex-col items-center">
+        <!-- <img
+          class="bureauimg nozoom h-16 w-16 rounded-full ring-2 ring-primary-500 transition-transform group-hover:scale-110"
+          src="{{ .avatar }}"
+          alt="{{ .name }}"
+          width="64"
+          height="64"
+          loading="lazy"> -->
+        <div
+          class="partnerimg nozoom transition-transform group-hover:scale-110"
+          style="background-image: url('{{ .avatar }}');"
+          loading="lazy">
+        </div>
+        <span class="partnernom mt-2 block w-full text-center text-sm text-neutral-600 transition-colors group-hover:text-primary-500 dark:text-neutral-400">
+          {{ .name }}
+        </span>
+        <span class="partnerdesignation mt-2 block w-full text-center text-sm text-neutral-600 transition-colors group-hover:text-primary-500 dark:text-neutral-400">
+          {{ .designation }}
+        </span>
+        <span class="relative me-2">
+          <span class="partnertype rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+            {{ .type }}
+          </span>
+        </span>
+      </div>
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+

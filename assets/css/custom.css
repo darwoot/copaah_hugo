@@ -1,0 +1,156 @@
+/* MODIF GENERALES */
+
+.max-w-prose {
+  max-width: 100%;
+}
+
+/* Couleur des titres généraux H2 à H6 */
+
+/* Il manque un identifier*/
+
+.h2anchors {
+  color: #2662ec;
+}
+
+h3,h4,h5,h6 {
+  font-weight: 700;
+}
+
+/* Changer la couleur et mettre en gras le header-title */
+#header-title {
+  color: #e68537;
+  font-weight: 1000;
+}
+
+/* Override style logo landing-page */
+#logo-image {
+    width: 200px;
+    height: auto;
+}
+
+/* Ne pas afficher l'acronyme COPAAH sous le logo de la page principale */
+#logo-text {
+  display: none;
+}
+
+
+#logo-description {
+    width: 20rem;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+
+/* PAGE ABOUT */
+
+/* Mise en forme Bureau */
+
+.bureauwrap {
+  gap: 13px;
+}
+
+.bureauitem {
+  width: 185px;
+}
+
+.bureauimg {
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 90px;
+  height: 90px;
+}
+
+.bureaunom {
+  font-weight: normal;
+  font-size: 0.9rem;
+  margin-top: 0px;
+}
+
+.bureaufonction {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+/* Mise en forme Représentation */
+
+.regionimg {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    width: 110px;
+    height: 7rem;
+}
+
+.regionnom {
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #6ba4d4;
+}
+
+.representantnom {
+  font-weight: 300;
+  font-size: 0.8rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+/* Administrateurs */
+
+.admincontainer {
+    width: 240px;
+    background: #fff;
+    border-radius: 30px;
+    padding: 12px;
+}
+
+.adminname {
+    font-size: 1rem;
+    text-align: center;
+    margin:0;
+}
+
+
+
+/* PARTENAIRES */
+
+.partnerimg {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  width: 140px;
+  height: 7rem;
+}
+
+.partneritem {
+  width: auto;
+}
+
+.partnerlink {
+  width: 180px;
+  background: white;
+  border-radius: 30px;
+  padding: 8px;
+}
+
+.partnernom {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.partnerdesignation {
+  font-weight: normal;
+  font-size: 0.9rem;
+  margin-top: 0px;
+}
+
+.partnertype {
+  font-size: 10px;
+}
