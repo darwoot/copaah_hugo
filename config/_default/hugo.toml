@@ -87,3 +87,9 @@ enableEmoji = true
       #   - Windows CMD: set "HUGO_DISABLELANGUAGES=it ja zh-cn" && npm run example:core
       #   - Windows PowerShell: $env:HUGO_DISABLELANGUAGES="it ja zh-cn"; npm run example:core
       lang = 'en'
+
+#GitHub Instructions
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
