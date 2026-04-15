@@ -286,6 +286,8 @@ representation2:
 ---
 
 <!-- TODOLIST pour améliorer la visibilité -->
+
+COMMENCER A EPURER LES FICHIERS
 --> Passer max-w-prose à 70ch (environ 68%)
 (pour occuper tout l'espace central sinon ça fait moche)
 
