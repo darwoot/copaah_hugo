@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大学のクラブサイト on COPAAH</title>
+    <link>http://localhost:1313/tags/%E5%A4%A7%E5%AD%A6%E3%81%AE%E3%82%AF%E3%83%A9%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88/</link>
+    <description>Recent content in 大学のクラブサイト on COPAAH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>secretariat@copaah.fr (COPAAH)</managingEditor>
+    <webMaster>secretariat@copaah.fr (COPAAH)</webMaster>
+    <copyright>Copyright © 2026 COPAAH by AMoscaBianca. Tous droits réservés.</copyright>
+    <atom:link href="http://localhost:1313/tags/%E5%A4%A7%E5%AD%A6%E3%81%AE%E3%82%AF%E3%83%A9%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
