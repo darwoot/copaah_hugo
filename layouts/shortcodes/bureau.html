@@ -22,6 +22,10 @@
               </span>
               <span class="bureaunom mt-2 block w-full text-center text-sm text-neutral-600 transition-colors group-hover:text-primary-500 dark:text-neutral-400">
                 {{ .name }}
+                <br/>
+                <span class="partnertype rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                  {{ .ville }} 
+                </span>
               </span>
               <span class="pointer-events-none absolute left-1/2 top-full z-10 mt-1 w-max max-w-48 -translate-x-1/2 rounded-md bg-neutral-900 px-2 py-1 text-xs text-white opacity-0 shadow-md transition-opacity duration-150 group-hover:opacity-100 group-focus-within:opacity-100 group-hover:visible group-focus-within:visible dark:bg-neutral-100 dark:text-neutral-900 invisible">
                 {{ partial "icon.html" "linkedin" }}

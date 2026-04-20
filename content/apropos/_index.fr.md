@@ -13,23 +13,28 @@ series_order: 3
 bureau:
   - name: "Mélina FATSEAS"
     designation: "Présidente"
-    avatar: "COPAAH_logobureau.png"
+    avatar: "blason_bordeaux.png"
+    ville: "Bordeaux"
 
   - name: "Georges BROUSSE"
     designation: "Vice-Président"
-    avatar: "COPAAH_logobureau.png"
+    avatar: "blason_clermontferrand.png"
+    ville: "Clermont-Ferrand"
     
   - name: "Françoise ALBERTINI"
     designation: "Secrétaire"
-    avatar: "COPAAH_logobureau.png"
+    avatar: "blason_marseille.png"
+    ville: "Marseille"
 
   - name: "Géraldine AUSTRUY"
     designation: "Trésorière"
-    avatar: "COPAAH_logobureau.png"
+    avatar: "blason_paris.png"
+    ville: "Paris"
 
   - name: "Michel MORIN"
     designation: "Trésorier adjoint"
-    avatar: "COPAAH_logobureau.png"
+    avatar: "blason_maizeroy.png"
+    ville: "Maizeroy"
 
 # CONSEIL D'ADMINISTRATION
 
@@ -41,9 +46,6 @@ conseiladmin:
       avatar: "COPAAH_logobureau.png"
 
     - name: "Nicolas CABE"
-      avatar: "COPAAH_logobureau.png"
-
-    - name: "Philippe CADET"
       avatar: "COPAAH_logobureau.png"
 
     - name: "Guylaine CHOPLAIN"
@@ -76,14 +78,8 @@ conseiladmin:
     - name: "Pascal MENECIER"
       avatar: "COPAAH_logobureau.png"
 
-    - name: "David METE"
-      avatar: "COPAAH_logobureau.png"
-
     - name: "Michel MORIN"
       avatar: "COPAAH_logobureau.png"
-
-    - name: "Marylène TETE"
-      avatar: "COPAAH_logobureau.png" 
 
     - name: "François PAILLE"
       avatar: "COPAAH_logobureau.png"
@@ -91,14 +87,22 @@ conseiladmin:
     - name: "Emmanuel PIERANTONI"
       avatar: "COPAAH_logobureau.png"
 
-    - name: "Frank QUESTEL"
-      avatar: "COPAAH_logobureau.png"
+    - name: "Marylène TETE"
+      avatar: "COPAAH_logobureau.png" 
 
     - name: "Nicolas THIERCELIN"
       avatar: "COPAAH_logobureau.png"
 
     - name: "Sophie VELASTEGUI"
       avatar: "COPAAH_logobureau.png"
+
+# ADMINISTRATEURS EFFACES:
+    # - name: "Frank QUESTEL"
+    #   avatar: "COPAAH_logobureau.png"      
+    # - name: "David METE"
+    #   avatar: "COPAAH_logobureau.png"
+    # - name: "Philippe CADET"
+    #   avatar: "COPAAH_logobureau.png"
 
 # METROPOLE
 
@@ -254,13 +258,13 @@ representation2:
      nom: "Dr. LACOSTE Jérôme"
      ville: "Fort-de-France"
     representant2: 
-     nom: "Dr. LECURIEUX-LAFFERRONAY Louis-Léone"
+     nom: "Dr. LECURIEUX-LAFERRONAY Louis-Léonce"
      ville: "Saint Esprit"
 
   - region: "Mayotte"
     logoregion: "976-logo-departement-mayotte.png"
     representant1:
-     nom: "Dr YOUSSOF Ali-Mohamed"
+     nom: "Dr YOUSSOUF Ali Mohamed"
      ville: "Mamoudzou"
     representant2: 
      nom: ""
@@ -287,13 +291,12 @@ representation2:
 
 <!-- TODOLIST pour améliorer la visibilité -->
 
-COMMENCER A EPURER LES FICHIERS
---> Passer max-w-prose à 70ch (environ 68%)
-(pour occuper tout l'espace central sinon ça fait moche)
+<!-- 1. Passer max-w-prose à 70ch (environ 68%) -->
+<!-- (pour occuper tout l'espace central sinon ça fait moche) -->
 
 
 {{< lead >}}
-Le CoPAAH, **Co**llège **P**rofessionnel des **A**cteurs de l'**A**ddictologie **H**ospitalière est une Association Loi de 1901 créée le 05 Octobre 2007 le CoPAAH pour représenter les professionnels de l’addictologie hospitalière auprès des autorités publiques et des instances nationales, régionales et locales.
+Le CoPAAH, **Co**llège **P**rofessionnel des **A**cteurs de l'**A**ddictologie **H**ospitalière est une Association Loi de 1901 créée le 05 Octobre 2007 pour représenter les professionnels de l’addictologie hospitalière auprès des autorités publiques et des instances nationales, régionales et locales.
 {{< /lead >}}
 
 ## Missions
@@ -313,7 +316,7 @@ en œuvre des politiques publiques de santé en addictologie.
 - **Prendre en compte les rôles et places** de l’ensemble des acteurs de l’addictologie dans les
 parcours de soins.
 
-{{< alert icon="" cardColor="#6ab4ff" iconColor="#ffffff" textColor="#000000" >}}
+{{< alert icon="circle-info" cardColor="#6ab4ff" iconColor="#ffffff" textColor="#000000" >}}
 La richesse de l'association est liée à la **collaboration étroite de ses adhérents**, personnes physiques qu’elles soient gestionnaires, administratives, médicales et soignantes issues du milieu hospitalier qu’il soit public, associatif, privé à but lucratif et privé à but non lucratif.
 {{< /alert >}}
 
@@ -350,7 +353,7 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 
 ### Bureau de l'association
 
-**Suggestion**: Le Bureau du COPAAH est élu par le Conseil d'Administration.
+Le Bureau du COPAAH est élu par le Conseil d'Administration constitué.
 
 {{< bureau >}}
 
@@ -379,11 +382,12 @@ Michel Morin<br/>
 
 ### Conseil d'administration
 
-Le Conseil d’Administration du CoPAAH est élu en assemblée générale par ses adhérents à jour de leur cotisation, personnes physiques dont l’adhésion individuelle obéit au principe du volontariat. Le CA constitué désigne le Bureau.
+Le Conseil d’Administration du COPAAH Il se réunit au minimum deux fois par an tous les XXX et coordonne les activités de l’association.
+Le CA du CoPAAH Il est organisé en 5 secteurs d’activités représentés par leurs acteurs:
 
-**Suggestion**: Le Conseil d'Administration du COPAAH se réunit tous les XXX et coordonne les activités de l'association.
+Le Conseil d’Administration du CoPAAH est élu et renouvelé de façon triannuelle en assemblée générale par ses adhérents à jour de leur cotisation, personnes physiques dont l’adhésion individuelle obéit au principe du volontariat.
 
-Le CA du CoPAAH est organisé en 5 secteurs d’activités représentés par leurs acteurs:
+Il se réunit au minimum deux fois par an tous les XXX et coordonne les activités de l’association. Il est organisé en 5 secteurs d’activités représentés par leurs acteurs:
 
 - Activités au sein de structures MCO de niveau 1, y compris les structures médico-sociales à gestion hospitalières
 - Activités au sein de structures MCO de niveau 2 
@@ -445,7 +449,7 @@ Sophie Velastegui<br/>
 
 ## Représentation régionale
 
-Tout adhérent volontaire peut poser sa candidature via le formulaire à la représentation régionale du CoPAAH auprès:
+Tout adhérent volontaire peut poser sa candidature **via le formulaire dédié (lien de téléchargement)**  à la représentation régionale du CoPAAH auprès:
 
   - des tutelles régionales et locales et 
   - des partenaires concernés par la formation, la prévention, le traitement, la réduction des risques et les pathologies associées (somatiques, psychiques et sociales) en lien avec l’addictologie. 

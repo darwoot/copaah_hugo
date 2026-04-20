@@ -4,6 +4,12 @@
   max-width: 100%;
 }
 
+.lead {
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #6fa1d8;
+}
+
 /* Couleur des titres généraux H2 à H6 */
 
 /* Il manque un identifier*/
