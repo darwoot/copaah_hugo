@@ -320,7 +320,7 @@ sociétés savantes.
 La richesse de l'association est liée à la **collaboration étroite de ses adhérents**, personnes physiques qu’elles soient gestionnaires, administratives, médicales et soignantes issues du milieu hospitalier qu’il soit public, associatif, privé à but lucratif et privé à but non lucratif.
 {{< /alert >}}
 
-<br/>
+<br>
 
 ---
 
@@ -338,7 +338,7 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 
-<br/>
+<br>
 
 ---
 
@@ -384,29 +384,29 @@ Voici la liste des élus au Conseil d'Administration du COPAAH depuis l'Assembl�
 {{< administrateurs >}}
 
 <!-- 
-**Administrateur(trice)s**<br/>
-Vanghelis Anastassiou<br/>
-Michaël Bazin<br/>
-Nicolas Cabe<br/>
-Philippe Cadet<br/>
-Guylaine Choplain<br/>
-Olivier Cottencin<br/>
-Philippe De Avezedo<br/>
-Faiza Dekhinet<br/>
-Maurice Dematteis<br/>
-Stéphanie Geiger-Boichot<br/>
-Romain Gomet<br/>
-Olivier Jenny<br/>
-Nadine Maptue<br/>
-Pascal Menecier<br/>
-David Mete<br/>
-Michel Morin<br/>
-François Paille<br/>
-Emmanuel Pierantoni<br/>
-Frank Questel<br/>
-Marylène Tete<br/>
-Nicolas Thiercelin<br/>
-Sophie Velastegui<br/>
+**Administrateur(trice)s**<br>
+Vanghelis Anastassiou<br>
+Michaël Bazin<br>
+Nicolas Cabe<br>
+Philippe Cadet<br>
+Guylaine Choplain<br>
+Olivier Cottencin<br>
+Philippe De Avezedo<br>
+Faiza Dekhinet<br>
+Maurice Dematteis<br>
+Stéphanie Geiger-Boichot<br>
+Romain Gomet<br>
+Olivier Jenny<br>
+Nadine Maptue<br>
+Pascal Menecier<br>
+David Mete<br>
+Michel Morin<br>
+François Paille<br>
+Emmanuel Pierantoni<br>
+Frank Questel<br>
+Marylène Tete<br>
+Nicolas Thiercelin<br>
+Sophie Velastegui<br>
 -->
 
 <!-- {{< list title="Samples" cardView=true limit=6 where="Type" value="sample">}} -->
@@ -445,4 +445,4 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 {{< /alert >}}
 
-<br/><br/><br/>
+<br><br><br>
