@@ -46,4 +46,4 @@ Un bulletin de cotisation vous sera transmis dès réception des frais d'adhési
 ## Faire un don à l'association (facultatif)
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. Faces illo pepulere tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis. 
 
-<br/><br/>
+<br><br>

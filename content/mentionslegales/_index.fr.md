@@ -35,5 +35,5 @@ http://www.medinweb.com
 Le site du **COPAAH** est hébergé auprès de la société InfoManiak          
 Siège social : **ADRESSE A FOURNIR**         
 
-<br/><br/>
+<br><br>
 

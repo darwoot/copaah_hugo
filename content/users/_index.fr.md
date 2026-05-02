@@ -23,4 +23,4 @@ De vrais sites web construits avec Blowfish. Consultez la liste complète en [fo
 
 {{</ alert >}}
 
-</BR>
+<br>

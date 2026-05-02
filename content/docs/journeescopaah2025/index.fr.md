@@ -1,11 +1,11 @@
 ---
 title: "Journées Nationales du COPAAH 2025"
-weight: 1
+weight: 9
 draft: false
 description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2025"
 tags: ["nouveau", "journées"]
-series: ["Documentation"]
-series_order: 8
+#series: ["Documentation"]
+#series_order: 8
 ---
 
 # 14èmes Journées Nationales du COPAAH 2025 : Urgence et crise en addictologie – Entre rupture et entrée dans le parcours de soins

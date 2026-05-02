@@ -1,6 +1,6 @@
 ---
 title: "Journées Nationales du COPAAH 2021"
-weight: 3
+weight: 5
 draft: false
 description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2021"
 tags: ["journées"]

@@ -1,6 +1,7 @@
 ---
 title: "Ressources du CoPAAH"
 description: "Ensemble des ressources documentaires du COPAAH"
+layout: "simple"
 
 cascade:
   showDate: false
@@ -132,20 +133,12 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 
 ### Exemple: Journées du COPAAH 
 
-{{< listbytag title="Journées du COPAAH" cardView=true limit=10 tag="journées" >}}
-
-
-{{< list title="Wow" cardView=true limit=10 where="Type" value="nouveau" >}}
-
+{{< listbytag cardView=true limit=10 tag="journées" >}}
 
 ## Ressources partenaires
 
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 
 {{< partenaires >}}
-
-
-
-
 
 ---

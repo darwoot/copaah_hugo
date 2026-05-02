@@ -23,4 +23,4 @@ Real websites that are built with Blowfish. Check the full list in [JSON format]
 
 {{</ alert >}}
 
-</BR>
+<br>

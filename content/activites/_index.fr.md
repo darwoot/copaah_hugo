@@ -21,7 +21,7 @@ Le COPAAH établit chaque année des rapports d’activités publics présentés
 Accéder aux [rapports d'activités du COPAAH](https://drive.google.com/drive/folders/1c6eZzgZiAfB2ro_DPBJhBxfWACc7f4jY)
 {{< /alert >}}
 
-<br/>
+<br>
 
 {{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
 Accéder aux [comptes rendus des CA du COPAAH](https://drive.google.com/drive/folders/1Pc4JWYgNDG4ovNyi-W9gW7VwBgzA8-xw) (réservé aux adhérents) 
@@ -63,14 +63,14 @@ POUR CHAQUE ANNEE
 Accéder à la documentation complète des Journées Nationales du COPAAH (réservé aux adhérents) : programme, présentations etc.
 {{< /alert >}}
 
-<br/>
+<br>
 
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2025](https://drive.google.com/drive/folders/1MM0IWd8vf-ogDRjTtJx6jdfFB9PD5iiY) <br/>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2024](https://drive.google.com/drive/folders/1WmZV-EWevI2OiGJtz7cjomfocE9Nym9T) <br/>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2023](https://drive.google.com/drive/folders/1ZcuhzxqugIotmUCwssAlj16vMKOKxZLv) <br/>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2022](https://drive.google.com/drive/folders/1KxYM_DzLDCD363OFUqqRIFu7uqPY8_V5) <br/>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2021](https://drive.google.com/drive/folders/16E11mxjhr0JjANYu9jUP6Zd4-_yPME_X) <br/>
-{{< icon "stack-overflow" >}}  --> [Archives](https://drive.google.com/drive/folders/1Lyi8J8OUhjsMy2HOMgZown4ySDYXfe91) <br/>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2025](https://drive.google.com/drive/folders/1MM0IWd8vf-ogDRjTtJx6jdfFB9PD5iiY) <br>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2024](https://drive.google.com/drive/folders/1WmZV-EWevI2OiGJtz7cjomfocE9Nym9T) <br>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2023](https://drive.google.com/drive/folders/1ZcuhzxqugIotmUCwssAlj16vMKOKxZLv) <br>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2022](https://drive.google.com/drive/folders/1KxYM_DzLDCD363OFUqqRIFu7uqPY8_V5) <br>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2021](https://drive.google.com/drive/folders/16E11mxjhr0JjANYu9jUP6Zd4-_yPME_X) <br>
+{{< icon "stack-overflow" >}}  --> [Archives](https://drive.google.com/drive/folders/1Lyi8J8OUhjsMy2HOMgZown4ySDYXfe91) <br>
 
 
 MANQUE
@@ -96,9 +96,9 @@ La Première Journée Régionale du COPAAH  en collaboration avec  le CH Le Vina
 
 EXEMPLE:
 
-📂[Journées 2025](/docs/journeescopaah2025) <br/>
-📂[Journées 2024](/docs/journeescopaah2024) <br/>
-📂[Journées 2023](/docs/journeescopaah2023) <br/>
+📂[Journées 2025](/docs/journeescopaah2025) <br>
+📂[Journées 2024](/docs/journeescopaah2024) <br>
+📂[Journées 2023](/docs/journeescopaah2023) <br>
 
 ---> Afficher les 4 dernières années
 ---> Livrables / Archives des différentes journées: dans Ressources

@@ -1,6 +1,6 @@
 ---
 title: "Journées Nationales du COPAAH 2026"
-weight: 1
+weight: 10
 draft: false
 description: "Découvrez le programme et inscrivez-vous aux Journées du COPAAH 2026"
 tags: ["nouveau", "journées"]

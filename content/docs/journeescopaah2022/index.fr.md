@@ -1,11 +1,11 @@
 ---
 title: "Journées Nationales du COPAAH 2022"
-weight: 3
+weight: 6
 draft: false
 description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2022"
 tags: ["journées"]
-series: ["Documentation"]
-series_order: 11
+#series: ["Documentation"]
+#series_order: 11
 ---
 
 # 11èmes Journées Nationales du COPAAH 2022 : Parcours de soins addictologiques : Cas complexes et coordination des soins

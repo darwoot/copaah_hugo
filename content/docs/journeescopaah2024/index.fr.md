@@ -1,11 +1,11 @@
 ---
 title: "Journées Nationales du COPAAH 2024"
-weight: 3
+weight: 8
 draft: false
 description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2024"
 tags: ["journées"]
-series: ["Documentation"]
-series_order: 9
+#series: ["Documentation"]
+#series_order: 9
 ---
 
 # 13èmes Journées Nationales du COPAAH 2024 : Construire des parcours de soins addictologiques adaptés – Focus sur les troubles cognitifs liés aux substances

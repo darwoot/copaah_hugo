@@ -1,11 +1,11 @@
 ---
 title: "Journées Nationales du COPAAH 2023"
-weight: 3
+weight: 7
 draft: false
 description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2023"
 tags: ["journées"]
-series: ["Documentation"]
-series_order: 10
+#series: ["Documentation"]
+#series_order: 10
 ---
 
 # 12èmes Journées Nationales du COPAAH 2023 : Parcours de soins addictologiques et coordination des acteurs
