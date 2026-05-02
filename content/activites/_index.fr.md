@@ -48,7 +48,7 @@ Depuis 2026, une Journée Nationale plus largement ouverte aux personnes des ét
 
 La thématique de cette première journée concerne les HDJ-A et aura lieu le **29 mai 2026 au ministère de la santé.**
 
-<a href="/docs/journeescopaah2026">Journées 2026</a>
+[Journées 2026](/docs/journeescopaah2026)
 (descriptif / programme / inscription --> billeterie HelloAsso)
 
 **--> voir lien vers la présentation / publication / annonce des Journées COPAAH 2026 (programme, inscription, billeterie etc.)**
@@ -96,9 +96,9 @@ La Première Journée Régionale du COPAAH  en collaboration avec  le CH Le Vina
 
 EXEMPLE:
 
-<a href="/docs/journeescopaah2025">Journées 2025</a>
-<a href="/docs/journeescopaah2024">Journées 2024</a>
-<a href="/docs/journeescopaah2023">Journées 2023</a>
+📂[Journées 2025](/docs/journeescopaah2025) <br/>
+📂[Journées 2024](/docs/journeescopaah2024) <br/>
+📂[Journées 2023](/docs/journeescopaah2023) <br/>
 
 ---> Afficher les 4 dernières années
 ---> Livrables / Archives des différentes journées: dans Ressources
