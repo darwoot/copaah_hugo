@@ -9,56 +9,76 @@
     <managingEditor>secretariat@copaah.fr (COPAAH)</managingEditor>
     <webMaster>secretariat@copaah.fr (COPAAH)</webMaster>
     <copyright>Copyright © 2026 COPAAH by AMoscaBianca. Tous droits réservés.</copyright>
-    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bienvenue sur Blowfish</title>
-      <link>http://localhost:1313/docs/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>secretariat@copaah.fr (COPAAH)</author>
-      <guid>http://localhost:1313/docs/welcome/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Journées du COPAAH 2025</title>
+      <title>Journées Nationales du COPAAH 2025</title>
       <link>http://localhost:1313/docs/journeescopaah2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>secretariat@copaah.fr (COPAAH)</author>
       <guid>http://localhost:1313/docs/journeescopaah2025/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;14èmes Journées Nationales du COPAAH 2025 : Urgence et crise en addictologie – Entre rupture et entrée dans le parcours de soins&#xA;    &lt;div id=&#34;14èmes-journées-nationales-du-copaah-2025--urgence-et-crise-en-addictologie--entre-rupture-et-entrée-dans-le-parcours-de-soins&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#14%c3%a8mes-journ%c3%a9es-nationales-du-copaah-2025--urgence-et-crise-en-addictologie--entre-rupture-et-entr%c3%a9e-dans-le-parcours-de-soins&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Lieu et date&lt;/strong&gt;&#xA;    &lt;div id=&#34;lieu-et-date&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#lieu-et-date&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hôpital Paul Brousse (Villejuif)&#xA;Vendredi 21 novembre 2025&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2025/featured.svg" />
     </item>
     
     <item>
-      <title>Journées du COPAAH 2026</title>
+      <title>Journées Nationales du COPAAH 2026</title>
       <link>http://localhost:1313/docs/journeescopaah2026/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>secretariat@copaah.fr (COPAAH)</author>
       <guid>http://localhost:1313/docs/journeescopaah2026/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Programme prévisionnel et Inscription aux Journées Nationales du COPAAH 2026&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Modalités d&amp;rsquo;inscription&#xA;    &lt;div id=&#34;modalités-dinscription&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#modalit%c3%a9s-dinscription&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;En cours de préparation&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2026/featured.svg" />
     </item>
     
     <item>
-      <title>Guide d&#39;hospitalisation de jour du COPAAH</title>
+      <title>L’Hôpital de Jour en Addictologie (HDJA) : Un levier pour des parcours de soins innovants</title>
       <link>http://localhost:1313/docs/guidehospitalisationdejour/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <author>secretariat@copaah.fr (COPAAH)</author>
       <guid>http://localhost:1313/docs/guidehospitalisationdejour/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  L’&lt;strong&gt;Hôpital de Jour en Addictologie (HDJA)&lt;/strong&gt; est un dispositif &lt;strong&gt;intermédiaire entre l’hospitalisation complète et le suivi ambulatoire&lt;/strong&gt;, offrant des &lt;strong&gt;soins intensifs et pluridisciplinaires&lt;/strong&gt; tout en maintenant les patients dans leur environnement naturel. Ce guide pratique, élaboré par le &lt;strong&gt;COPAAH&lt;/strong&gt;, clarifie le cadre réglementaire, les missions et propose des &lt;strong&gt;programmes thérapeutiques adaptés&lt;/strong&gt; pour les professionnels.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi un HDJA ?&#xA;    &lt;div id=&#34;pourquoi-un-hdja-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-un-hdja-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Les HDJA répondent aux besoins de patients présentant des &lt;strong&gt;troubles addictifs complexes&lt;/strong&gt; (substances ou comportements), souvent associés à des &lt;strong&gt;comorbidités psychiatriques ou somatiques&lt;/strong&gt;. Ils permettent :&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/guidehospitalisationdejour/featured.svg" />
     </item>
     
     <item>
-      <title>Journées du COPAAH 2023</title>
+      <title>Journées Nationales du COPAAH 2021</title>
+      <link>http://localhost:1313/docs/journeescopaah2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/journeescopaah2021/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;10èmes Journées Nationales du COPAAH 2021 : Transversalité et parcours de soins addictologiques hospitaliers&#xA;    &lt;div id=&#34;10èmes-journées-nationales-du-copaah-2021--transversalité-et-parcours-de-soins-addictologiques-hospitaliers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#10%c3%a8mes-journ%c3%a9es-nationales-du-copaah-2021--transversalit%c3%a9-et-parcours-de-soins-addictologiques-hospitaliers&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lieu et date :&lt;/strong&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2021/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Journées Nationales du COPAAH 2022</title>
+      <link>http://localhost:1313/docs/journeescopaah2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/journeescopaah2022/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;11èmes Journées Nationales du COPAAH 2022 : Parcours de soins addictologiques : Cas complexes et coordination des soins&#xA;    &lt;div id=&#34;11èmes-journées-nationales-du-copaah-2022--parcours-de-soins-addictologiques--cas-complexes-et-coordination-des-soins&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#11%c3%a8mes-journ%c3%a9es-nationales-du-copaah-2022--parcours-de-soins-addictologiques--cas-complexes-et-coordination-des-soins&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lieu et date :&lt;/strong&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2022/featured.png" />
+    </item>
+    
+    <item>
+      <title>Journées Nationales du COPAAH 2023</title>
       <link>http://localhost:1313/docs/journeescopaah2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>secretariat@copaah.fr (COPAAH)</author>
       <guid>http://localhost:1313/docs/journeescopaah2023/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish regorge de fonctionnalités.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;L&amp;rsquo;objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; et étend sa vision initiale.&lt;/p&gt;</description>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;12èmes Journées Nationales du COPAAH 2023 : Parcours de soins addictologiques et coordination des acteurs&#xA;    &lt;div id=&#34;12èmes-journées-nationales-du-copaah-2023--parcours-de-soins-addictologiques-et-coordination-des-acteurs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#12%c3%a8mes-journ%c3%a9es-nationales-du-copaah-2023--parcours-de-soins-addictologiques-et-coordination-des-acteurs&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Lieu et date&lt;/strong&gt;&#xA;    &lt;div id=&#34;lieu-et-date&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#lieu-et-date&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Ministère de la Santé, Amphithéâtre Laroque (Paris).&#xA;Vendredi 24 novembre 2023&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2023/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Journées Nationales du COPAAH 2024</title>
+      <link>http://localhost:1313/docs/journeescopaah2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/docs/journeescopaah2024/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;13èmes Journées Nationales du COPAAH 2024 : Construire des parcours de soins addictologiques adaptés – Focus sur les troubles cognitifs liés aux substances&#xA;    &lt;div id=&#34;13èmes-journées-nationales-du-copaah-2024--construire-des-parcours-de-soins-addictologiques-adaptés--focus-sur-les-troubles-cognitifs-liés-aux-substances&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#13%c3%a8mes-journ%c3%a9es-nationales-du-copaah-2024--construire-des-parcours-de-soins-addictologiques-adapt%c3%a9s--focus-sur-les-troubles-cognitifs-li%c3%a9s-aux-substances&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Lieu et date&lt;/strong&gt;&#xA;    &lt;div id=&#34;lieu-et-date&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#lieu-et-date&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Ministère de la Santé, Amphithéâtre Laroque (Paris).&#xA;Vendredi 6 décembre 2024&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/journeescopaah2024/featured.svg" />
     </item>
     
   </channel>

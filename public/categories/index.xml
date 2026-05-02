@@ -9,7 +9,47 @@
     <managingEditor>secretariat@copaah.fr (COPAAH)</managingEditor>
     <webMaster>secretariat@copaah.fr (COPAAH)</webMaster>
     <copyright>Copyright © 2026 COPAAH by AMoscaBianca. Tous droits réservés.</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Addictologie</title>
+      <link>http://localhost:1313/categories/addictologie/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/categories/addictologie/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>http://localhost:1313/categories/documentation/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/categories/documentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nouveau</title>
+      <link>http://localhost:1313/categories/nouveau/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/categories/nouveau/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Parcours De Soins</title>
+      <link>http://localhost:1313/categories/parcours-de-soins/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/categories/parcours-de-soins/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

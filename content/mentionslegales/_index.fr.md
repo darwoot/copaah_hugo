@@ -3,10 +3,10 @@ title: "Mentions légales"
 weight: 3
 draft: false
 description: "Mentions légales de l'association COPAAH"
-slug: "getting-started"
-tags: ["installation", "documentation"]
-series: ["Documentation"]
-series_order: 3
+# slug: "getting-started"
+# tags: ["installation", "documentation"]
+# series: ["Documentation"]
+# series_order: 3
 ---
 
 

@@ -35,7 +35,11 @@ disableTextInHeader = false     # TEXTE A COTE DU LOGO DANS LE HEADER
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
 defaultBackgroundImage = "/img/fireflies.svg"
-defaultFeaturedImage = "/img/featured.svg"
+
+# MODIF TEMPORAIRE
+#defaultFeaturedImage = "/img/featured.svg"
+defaultFeaturedImage = "/img/featured.png"
+
 defaultSocialImage = "/img/blowfish_banner.png"
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
@@ -86,7 +90,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/darwoot/copaah"       
+  editURL = "https://github.com/darwoot/copaah_hugo/"       
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true

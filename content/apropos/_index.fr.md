@@ -3,10 +3,10 @@ title: "A propos"
 weight: 3
 draft: false
 description: "A propos de l'association COPAAH"
-slug: "getting-started"
-tags: ["installation", "documentation"]
-series: ["Documentation"]
-series_order: 3
+# slug: "getting-started"
+# tags: ["installation", "documentation"]
+# series: ["Documentation"]
+# series_order: 3
 
 # COMPOSITION DU BUREAU
 
@@ -15,26 +15,32 @@ bureau:
     designation: "Présidente"
     avatar: "blason_bordeaux.png"
     ville: "Bordeaux"
+    linkedin: "https://www.linkedin.com/in/melina-fatseas-35618a74/"
 
   - name: "Georges BROUSSE"
     designation: "Vice-Président"
     avatar: "blason_clermontferrand.png"
     ville: "Clermont-Ferrand"
+    linkedin: "https://www.linkedin.com/in/georges-brousse-2b881958/"
+
     
   - name: "Françoise ALBERTINI"
     designation: "Secrétaire"
     avatar: "blason_marseille.png"
     ville: "Marseille"
+    linkedin: "https://www.linkedin.com/in/fran%C3%A7oise-albertini-ben-ha%C3%AFm-70429671/"
 
   - name: "Géraldine AUSTRUY"
     designation: "Trésorière"
     avatar: "blason_paris.png"
     ville: "Paris"
+    linkedin: "https://www.linkedin.com/company/copaah-coll%C3%A8ge-professionnel-des-acteurs-de-l-addictologie-hospitali%C3%A8re/"
 
   - name: "Michel MORIN"
     designation: "Trésorier adjoint"
     avatar: "blason_maizeroy.png"
     ville: "Maizeroy"
+    linkedin: "https://www.linkedin.com/in/michel-morin-b999914b/"
 
 # CONSEIL D'ADMINISTRATION
 
@@ -228,8 +234,6 @@ representation1:
      nom: "Dr. ALBERTINI Françoise"
      ville: "Marseille"
 
-
-
 #OUTREMER
 
 representation2:
@@ -289,32 +293,28 @@ representation2:
      ville: ""
 ---
 
-<!-- TODOLIST pour améliorer la visibilité -->
+<!-- Pour améliorer la visibilité -->
 
-<!-- 1. Passer max-w-prose à 70ch (environ 68%) -->
-<!-- (pour occuper tout l'espace central sinon ça fait moche) -->
+<!-- 1. Passer max-w-prose à 70ch (environ 68%) (pour occuper tout l'espace central sinon ça fait moche) -->
 
 
 {{< lead >}}
 Le CoPAAH, **Co**llège **P**rofessionnel des **A**cteurs de l'**A**ddictologie **H**ospitalière est une Association Loi de 1901 créée le 05 Octobre 2007 pour représenter les professionnels de l’addictologie hospitalière auprès des autorités publiques et des instances nationales, régionales et locales.
 {{< /lead >}}
 
+---
+
 ## Missions
 
 Les missions du CoPAAH sont les suivantes:
 
-- **Participer à la réflexion et à la mise en œuvre de l’offre de soins hospitalière en addictologie**
-tant sur le plan national que régional, et dans ce cadre participe à l’élaboration d’outils : dossier patient, cahiers des charges, financement, développement du rôle des structures
+- **Participer à la réflexion et à la mise en œuvre de l’offre de soins hospitalière en addictologie** tant sur le plan national que régional, et dans ce cadre participe à l’élaboration d’outils : dossier patient, cahiers des charges, financement, développement du rôle des structures
 hospitalières dans l’enseignement, la formation et la recherche en collaboration avec des
 sociétés savantes.
-- **Être un lieu d’échanges et de réflexion** des professionnels de l’addictologie hospitalière, en
-articulation avec les autres personnes ou structures concernées (notamment médico-
-sociales).
+- **Être un lieu d’échanges et de réflexion** des professionnels de l’addictologie hospitalière, en articulation avec les autres personnes ou structures concernées (notamment médico-sociales).
 - **Promouvoir la qualité des soins** et l’évaluation des pratiques professionnelles.
-- **Mettre à disposition des équipes hospitalières** conseils et aides méthodologiques pour la mise
-en œuvre des politiques publiques de santé en addictologie.
-- **Prendre en compte les rôles et places** de l’ensemble des acteurs de l’addictologie dans les
-parcours de soins.
+- **Mettre à disposition des équipes hospitalières** conseils et aides méthodologiques pour la mise en œuvre des politiques publiques de santé en addictologie.
+- **Prendre en compte les rôles et places** de l’ensemble des acteurs de l’addictologie dans les parcours de soins.
 
 {{< alert icon="circle-info" cardColor="#6ab4ff" iconColor="#ffffff" textColor="#000000" >}}
 La richesse de l'association est liée à la **collaboration étroite de ses adhérents**, personnes physiques qu’elles soient gestionnaires, administratives, médicales et soignantes issues du milieu hospitalier qu’il soit public, associatif, privé à but lucratif et privé à but non lucratif.
@@ -322,22 +322,13 @@ La richesse de l'association est liée à la **collaboration étroite de ses adh
 
 <br/>
 
+---
+
 ## Histoire
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more--> Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 {{< youtube "hA_lfc2B2HQ" >}}
-
-<!-- 1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
-
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
-
-<svg xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="186" width="248"><g fill="none"><path stroke="#000" stroke-width="2" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width="2" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width="2" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx="2" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx="2" ry="1.25"></ellipse></g></svg>
-
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon) -->
 
 ### Sous-partie 1
 
@@ -349,6 +340,8 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 
 <br/>
 
+---
+
 ## Gouvernance
 
 ### Bureau de l'association
@@ -357,37 +350,11 @@ Le Bureau du COPAAH est élu par le Conseil d'Administration constitué.
 
 {{< bureau >}}
 
-<!-- 
-**Présidente**<br/>
-Mélina Fatseas<br/>
-**Vice-Président**<br/>
-Georges Brousse<br/>
-**Secrétaire**<br/>
-Françoise Albertini<br/>
-**Trésorière**<br/>
-Géraldine Austruy<br/>
-**Trésorier adjoint**<br/>
-Michel Morin<br/> 
--->
-
-<!-- 
-| **Constitution du Bureau**  |           |            |
-| --------- | -------- | ------ |
-| _Présidente_ | **Mélanie FATSEAS** | `code` |
-| _Vice-Président_ | **Georges BROUSSE** | `code` |
-| _Secrétaire_ | **Françoise ALBERTINI** | `code` |
-| _Trésorière_ | **Géraldin ASTRUY** | `code` |
-| _Trésorier adjoint_ | **Michel MORIN** | `code` | 
--->
-
 ### Conseil d'administration
-
-Le Conseil d’Administration du COPAAH Il se réunit au minimum deux fois par an tous les XXX et coordonne les activités de l’association.
-Le CA du CoPAAH Il est organisé en 5 secteurs d’activités représentés par leurs acteurs:
 
 Le Conseil d’Administration du CoPAAH est élu et renouvelé de façon triannuelle en assemblée générale par ses adhérents à jour de leur cotisation, personnes physiques dont l’adhésion individuelle obéit au principe du volontariat.
 
-Il se réunit au minimum deux fois par an tous les XXX et coordonne les activités de l’association. Il est organisé en 5 secteurs d’activités représentés par leurs acteurs:
+Il se réunit au minimum deux fois par an et coordonne les activités de l’association. Son organisation est découpée en 5 secteurs d’activités représentés par leurs acteurs:
 
 - Activités au sein de structures MCO de niveau 1, y compris les structures médico-sociales à gestion hospitalières
 - Activités au sein de structures MCO de niveau 2 
@@ -415,7 +382,6 @@ Il se réunit au minimum deux fois par an tous les XXX et coordonne les activit�
 Voici la liste des élus au Conseil d'Administration du COPAAH depuis l'Assemblée Générale Ordinaire 2024.
 
 {{< administrateurs >}}
-
 
 <!-- 
 **Administrateur(trice)s**<br/>
@@ -445,12 +411,11 @@ Sophie Velastegui<br/>
 
 <!-- {{< list title="Samples" cardView=true limit=6 where="Type" value="sample">}} -->
 
-
+---
 
 ## Représentation régionale
 
 Tout adhérent volontaire peut poser sa candidature **via le formulaire dédié (lien de téléchargement)**  à la représentation régionale du CoPAAH auprès:
-
   - des tutelles régionales et locales et 
   - des partenaires concernés par la formation, la prévention, le traitement, la réduction des risques et les pathologies associées (somatiques, psychiques et sociales) en lien avec l’addictologie. 
 
@@ -466,84 +431,18 @@ Les candidatures sont examinées par le CA. Deux représentants par région peuv
 
 {{< representation zone="metropole" >}}
 
-<!-- * **Auvergne-Rhône-Alpes**
-    - Pr DEMATTEIS Maurice Grenoble
-    - Dr DEKHINET Faiza Lyon
-
-* **Bourgogne-Franche-Comté**
-    - Dr MENECIER Pascal Macon
-    - Dr ARAVANTINOS David Dijon
-
-* **Bretagne**
-    - Dr MAPTUE Nadine Brest
-    - Pr GUILLOU Morgane Brest
-
-* **Centre-Val-de-Loire**
-    - Mme AMORFINI Michèle
-    - Mme CHOQUET Armelle Illiers-Combray
-
-* **Corse**
-    - néant
-  
-* **Grand-Est**
-    - Mr MORIN Michel Maizeroy
-  
-* **Hauts-de-France**
-    - Dr YGUEL Jacques Avesnes
-    - Dr VOSGIEN Véronique St André-lez-Lille
-
-* **Ile-de-France**
-    - Dr Anastassiou Vanghelis Paris     
-    - Dr GOMET Romain Créteil
-  
-* **Normandie**
-    - Dr CADET Philippe Grand-couronne
-    - Dr CABE Nicolas Caen
-  
-* **Nouvelle-Aquitaine**
-    - Dr VILLEGER Pierre Limoges
-    - Dr HERRAN Eliane Bayonne
-  
-* **Occitanie**
-    - Mme DALET Marjorie Fronton
-    - Pr LUQUIENS Amandine Nîmes
-  
-* **Pays-de-la-Loire**
-    - Dr CHOPLAIN Guylaine Le Mans
-  
-* **Provence Alpes Côte d'Azur**
-    - Dr BAZIN Mickaël Allauch
-    - Dr ALBERTINI Françoise Marseille -->
-
-
 #### Régions ultramarines
-
 
 {{< representation zone="outremer" >}}
 
-
-<!-- * **Guadeloupe**
-    - Néant
-
-* **Guyane**
-    - Néant
-  
-* **Martinique**
-    - Dr LACOSTE Jérôme Fort-de-France
-    - Dr LECURIEUX-LAFFERRONNAY Louis-Léonce Saint-Esprit
-  
-* **Mayotte**
-    - Dr YOUSSOUF Ali-Mohamed (Mamoudzou)
-  
-* **La Réunion**
-    - Dr JAMAIN Thierry St-André
-    - Dr METE David St-Denis
-
-* **DOM et TOM**
-    - Non encore concernés -->
+---
 
 ## Autres
 
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+
+{{< alert icon="circle-info" cardColor="#ffb73b" iconColor="#ffffff" textColor="#000000" >}}
+Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+{{< /alert >}}
 
 <br/><br/><br/>

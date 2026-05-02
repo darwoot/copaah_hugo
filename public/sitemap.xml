@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/docs/welcome/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/docs/journeescopaah2025/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -19,6 +14,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/docs/guidehospitalisationdejour/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,7 +29,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/docs/journeescopaah2021/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/journeescopaah2022/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/docs/journeescopaah2023/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/journeescopaah2024/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -48,27 +59,109 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/auteur-du-th%C3%A8me/</loc>
+    <loc>http://localhost:1313/tags/addiction/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/addictologie/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/autor-del-tema/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/autor-do-tema/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/autore-del-tema/</loc>
+    <loc>http://localhost:1313/authors/copaah/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/documentation/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/series/documentation/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/guide-pratique/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/hdja/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/nouveau/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/parcours-de-soins/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/pluridisciplinarit%C3%A9/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/soins-ambulatoires/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/auteur-du-th%C3%A8me/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -78,27 +171,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/contact/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/series/documentation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/documentation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -109,11 +182,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/exemple/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/installation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -133,87 +201,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/pers%C3%B6nliche-seite/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/docs/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/site-da-organiza%C3%A7%C3%A3o/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/site-de-lorganisation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/site-do-clube-universit%C3%A1rio/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/site-du-club-universitaire/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/site-personnel/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/site-pessoal/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/sitio-de-la-organizaci%C3%B3n/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/sitio-del-club-universitario/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/sitio-personal/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/sito-del-club-universitario/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/sito-dellorganizzazione/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/sito-personale/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/themenautor/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -229,56 +217,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/validation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/website-der-organisation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/website-des-college-clubs/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E3%83%86%E3%83%BC%E3%83%9E%E4%BD%9C%E8%80%85/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E4%B8%BB%E9%A2%98%E4%BD%9C%E8%80%85/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E5%80%8B%E4%BA%BA%E3%82%B5%E3%82%A4%E3%83%88/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E5%A4%A7%E5%AD%A6%E3%81%AE%E3%82%AF%E3%83%A9%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E5%A4%A7%E5%AD%A6%E4%BF%B1%E4%B9%90%E9%83%A8%E7%BD%91%E7%AB%99/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E7%B5%84%E7%B9%94%E3%82%B5%E3%82%A4%E3%83%88/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E7%BB%84%E7%BB%87%E7%AB%99%E7%82%B9/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

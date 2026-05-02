@@ -10,6 +10,38 @@
     color: #6fa1d8;
 }
 
+.centre {
+  margin: auto;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #6fa1d8;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* FOOTER NAV */
+
+footer nav
+{
+  background: #ffd9aa;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 15px 10px 15px 10px;
+}
+
+footer #copyrightAndtheme
+{
+  background: #a5d6ff;
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+#wcb {
+  margin-top: 10px;
+}
+
 /* Couleur des titres généraux H2 à H6 */
 
 /* Il manque un identifier*/

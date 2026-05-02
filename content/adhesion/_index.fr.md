@@ -3,10 +3,11 @@ title: "Adhésion"
 weight: 5
 draft: false
 description: "Adhérer à l'association COPAAH"
-slug: "getting-started"
-tags: ["installation", "documentation"]
-series: ["Documentation"]
-series_order: 3
+# layout: "single"
+# slug: "getting-started"
+# tags: ["installation", "documentation"]
+# series: ["Documentation"]
+# series_order: 3
 ---
 
 {{< lead >}}
@@ -26,7 +27,7 @@ Pour ce faire, le formulaire suivant est à remplir et à transmettre à l'adres
 **secretariat@copaah.fr**
 
 ![Télécharger le bulletin de souscription](img_bulletinadhesion.png)
-{{< button href="bulletin_adhesion_copaah_v1.pdf" >}}
+{{< button href="bulletin_adhesion_copaah_v1.pdf" target="_blank" >}}
     Télécharger le bulletin de souscription
 {{< /button >}}
 
@@ -36,7 +37,7 @@ Dès acceptation par le CA du COPAAH, le nouvel adhérent reçoit un e-mail de c
 
 ### 3 - Paiement et réception du bulletin de cotisation
 Vous avez le choix entre plusieurs moyens de paiements:
- - par carte bancaire via la plateforme HelloAsso (lien vers la page HelloAsso)
+ - par carte bancaire via la page du COPAAH sur [la plateforme HelloAsso](https://www.helloasso.com/associations/college-professionnel-des-acteurs-de-l-addictologie-hospitaliere)
  - par virement bancaire grâce au RIB fourni (ordre / bénéficiaire)
  - par chèque grâce à l'adresse fournie (ordre / bénéficiaire)
 

@@ -3,10 +3,10 @@ title: "Activités"
 weight: 3
 draft: false
 description: "Activités de l'association COPAAH"
-slug: "getting-started"
-tags: ["installation", "documentation"]
-series: ["Documentation"]
-series_order: 3
+# slug: "getting-started"
+# tags: ["installation", "documentation"]
+# series: ["Documentation"]
+# series_order: 3
 ---
 
 {{< lead >}}
@@ -15,10 +15,26 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 
 ## Instances
 
-Le COPAAH établit chaque année des rapports d’activités lors des AGO que vous pouvez retrouver dans la page Ressources / Documentation (lecture publique). Les CR de CA et les CR des rencontres des représentants régionaux sont accessibles aux adhérents de l’association.
+Le COPAAH établit chaque année des rapports d’activités publics présentés lors des assemblées générales annuelles de l'association que vous pouvez retrouver également sur la page [Ressources / Documentation ](/docs/#ressources-du-copaah). Les comptes rendus des conseils d'administration et des rencontres des représentants régionaux sont eux accessibles aux adhérents de l’association.
 
-→ lien rapport d’activités / PV AGO (page Ressources)
-→ lien CR CA et rencontres RR (Page Ressources)
+{{< alert icon="circle-info" cardColor="#6ab4ff" iconColor="#ffffff" textColor="#000000" >}}
+Accéder aux [rapports d'activités du COPAAH](https://drive.google.com/drive/folders/1c6eZzgZiAfB2ro_DPBJhBxfWACc7f4jY)
+{{< /alert >}}
+
+<br/>
+
+{{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
+Accéder aux [comptes rendus des CA du COPAAH](https://drive.google.com/drive/folders/1Pc4JWYgNDG4ovNyi-W9gW7VwBgzA8-xw) (réservé aux adhérents) 
+{{< /alert >}}
+
+
+{{< figure
+  src="COPAAH_logobureau.png"
+  alt="Image de séparation"
+  caption="image de séparation"
+  class="centre"
+>}}
+
 
 ## Evènements
 
@@ -26,11 +42,14 @@ Le COPAAH établit chaque année des rapports d’activités lors des AGO que vo
 
 #### Journées nationales de travail en présentiel (Paris)
 
-Le CoPAAH organise à l’occasion de chaque fin d’exercice annuel une Journée nationale de travail en présentiel en direction de ses adhérents. L’inscription à cette journée est entièrement gratuite pour les adhérents à jour de leur cotisation et les intervenants. Elle comprend l’accueil, le  repas et les pauses Si des personnes non adhérentes souhaitent y participer, elles devront s’acquitter du repas s’il est pris sur place. Elle a lieu le même jour que l’assemblée générale.
+Le CoPAAH organise à l’occasion de chaque fin d’exercice annuel une Journée Nationale de travail en présentiel en direction de ses adhérents. L’inscription à cette journée est entièrement gratuite pour les adhérents à jour de leur cotisation et les intervenants. Elle comprend l’accueil, le  repas et les pauses. Si des personnes non adhérentes souhaitent y participer, elles devront s’acquitter du repas s’il est pris sur place. Les Journées Nationales annuelles ont lieu le même jour que l’Assemblée Générale.
 
-Depuis 2026, une journée nationale plus largement ouverte aux personnes des établissements sanitaires intéressés par la thématique abordée est organisée. Les modalités d’inscription sont identiques. 
+Depuis 2026, une Journée Nationale plus largement ouverte aux personnes des établissements sanitaires intéressés par la thématique abordée est organisée. Les modalités d’inscription sont identiques. 
 
-La thématique de la première journée concerne les HDJ-A et aura lieu le 29 mai 2026 au ministère de la santé.
+La thématique de cette première journée concerne les HDJ-A et aura lieu le **29 mai 2026 au ministère de la santé.**
+
+<a href="#journées-du-copaah-2026">Journées 2026</a>
+(descriptif / programme / inscription --> billeterie HelloAsso)
 
 **--> voir lien vers la présentation / publication / annonce des Journées COPAAH 2026 (programme, inscription, billeterie etc.)**
 
@@ -40,11 +59,24 @@ POUR CHAQUE ANNEE
  - attestation d’inscription
  - attestation de présence modèles
 
----> LIEN VERS DOSSIER JOURNEES NATIONALES (par année)
-📂 Année (schéma à répéter)
- - Programme.pdf
+{{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
+Accéder à la documentation complète des Journées Nationales du COPAAH (réservé aux adhérents) : programme, présentations etc.
+{{< /alert >}}
+
+<br/>
+
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2025](https://drive.google.com/drive/folders/1MM0IWd8vf-ogDRjTtJx6jdfFB9PD5iiY) <br/>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2024](https://drive.google.com/drive/folders/1WmZV-EWevI2OiGJtz7cjomfocE9Nym9T) <br/>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2023](https://drive.google.com/drive/folders/1ZcuhzxqugIotmUCwssAlj16vMKOKxZLv) <br/>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2022](https://drive.google.com/drive/folders/1KxYM_DzLDCD363OFUqqRIFu7uqPY8_V5) <br/>
+{{< icon "stack-overflow" >}}  --> [Journées Nationales 2021](https://drive.google.com/drive/folders/16E11mxjhr0JjANYu9jUP6Zd4-_yPME_X) <br/>
+{{< icon "stack-overflow" >}}  --> [Archives](https://drive.google.com/drive/folders/1Lyi8J8OUhjsMy2HOMgZown4ySDYXfe91) <br/>
+
+
+MANQUE
  - Liste inscrits.pdf ?
- - Interventions_Presentations (Dossier)
+
+Les présentations générales des Journées sont disponibles **(mettre lien vers Ressources#Journées Nationales
 
 
 #### Journées régionales
@@ -71,26 +103,13 @@ EXEMPLE:
 ---> Afficher les 4 dernières années
 ---> Livrables / Archives des différentes journées: dans Ressources
 
-### Journées du COPAAH 2023
-Programme
-Vidéos
 
-{{< article link="/docs/journeescopaah2023/" showSummary=true compactSummary=true >}}
-
-#### Journées du COPAAH 2024
-Programme
-Vidéos
-{{< youtube "TmWIrBPE6Bc" >}}
-
-{{< article link="/docs/journeescopaah2025/" showSummary=true compactSummary=true >}}
-
-#### Journées du COPAAH 2025
-Programme
-Vidéos
-{{< youtube "TmWIrBPE6Bc" >}}
-
-{{< article link="/docs/journeescopaah2025/" showSummary=true compactSummary=true >}}
-
+{{< figure
+  src="COPAAH_logobureau.png"
+  alt="Image de séparation"
+  caption="image de séparation"
+  class="centre"
+>}}
 
 ### Ateliers & Wébinaires
 
@@ -98,7 +117,7 @@ Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more--> Redit
 
 Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
 
-![Image avec texte alternatif](image-resizing.png)
+
 
 ```html
 <!-- Markdown: ![Mon image](image.jpg) -->
@@ -112,7 +131,12 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
 />
 ```
 
-
+{{< figure
+  src="COPAAH_logobureau.png"
+  alt="Image de séparation"
+  caption="image de séparation"
+  class="centre"
+>}}
 
 
 ## Groupes de Travail
@@ -132,9 +156,6 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
 Page Ressources ou lien comme pour les Journées.
 
 
-
-
-
 1. Exierant elisi ambit vivere dedere
 2. Duce pollice
 3. Eris modo
@@ -142,7 +163,8 @@ Page Ressources ou lien comme pour les Journées.
 
 Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
 
-![Image avec texte alternatif](image-resizing.png)
+
+
 
 ```html
 <!-- Markdown: ![Mon image](image.jpg) -->

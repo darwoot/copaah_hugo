@@ -127,6 +127,17 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 * Guide pratique HDJ-A 2024 
 * autres à retrouver
 
+### Exemple: Guide pratique HDJ-A 2024
+{{< article link="/docs/guidehospitalisationdejour/" showSummary=true compactSummary=true >}}
+
+### Exemple: Journées du COPAAH 
+
+{{< listbytag title="Journées du COPAAH" cardView=true limit=10 tag="journées" >}}
+
+
+{{< list title="Wow" cardView=true limit=10 where="Type" value="nouveau" >}}
+
+
 ## Ressources partenaires
 
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.

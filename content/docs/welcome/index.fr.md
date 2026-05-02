@@ -1,7 +1,7 @@
 ---
 title: "Bienvenue sur Blowfish"
 weight: 1
-draft: false
+draft: true
 description: "Découvrez les nouveautés de Blowfish version 2.0."
 tags: ["nouveau", "documentation"]
 series: ["Documentation"]

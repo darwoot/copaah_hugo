@@ -5,7 +5,7 @@
 
     {{ if $conseil }}
         {{ range $index, $element := $conseil }}
-            {{ if eq (mod $index 6) 0 }}
+            {{ if eq (mod $index 7) 0 }}
                 {{ if ne $index 0 }}</div></div>{{ end }}
                 <div class="admincontainer group relative flex w-24 flex-col items-center">
                   <div class="partneritem group relative flex w-24 flex-col items-center">

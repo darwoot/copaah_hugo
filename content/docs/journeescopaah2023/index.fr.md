@@ -1,78 +1,89 @@
 ---
-title: "Journées du COPAAH 2023"
+title: "Journées Nationales du COPAAH 2023"
 weight: 3
 draft: false
 description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2023"
-tags: ["nouveau", "journées"]
+tags: ["journées"]
 series: ["Documentation"]
-series_order: 1
+series_order: 10
 ---
 
+# 12èmes Journées Nationales du COPAAH 2023 : Parcours de soins addictologiques et coordination des acteurs
+
+## **Lieu et date**
+Ministère de la Santé, Amphithéâtre Laroque (Paris).
+Vendredi 24 novembre 2023
+
 {{< lead >}}
-Blowfish regorge de fonctionnalités.
+**Parcours de soins addictologiques et offre de soins hospitalière : Gros plan sur les travaux récents du COPAAH**
+
+Les 12èmes Journées Nationales du COPAAH ont mis en lumière les **enjeux de la coordination des soins** pour les patients souffrant de troubles addictifs, en particulier ceux présentant des **cas complexes** (pathologies duelles, troubles cognitifs liés à l’alcool, etc.). L’accent a été mis sur l’articulation entre les acteurs sanitaires, médico-sociaux et sociaux, ainsi que sur les **réformes récentes** et les **bonnes pratiques** en matière de prise en charge.
 {{< /lead >}}
 
-L'objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> et étend sa vision initiale.
+---
 
-## Tailwind CSS 3.0
+## Points forts des interventions
 
-Tailwind CSS est au cœur de Blowfish et cette version contient la toute dernière [Tailwind CSS version 3](https://tailwindcss.com/blog/tailwindcss-v3). Elle apporte des optimisations de performances et la prise en charge de nouvelles fonctionnalités CSS intéressantes.
+### 1. Offre hospitalière en addictologie : État des lieux et perspectives
 
-{{< youtube "TmWIrBPE6Bc" >}}
+**Claire Sixdenier et Dr Laure Poirat (DGOS)** ont présenté les résultats d’une **enquête nationale** sur l’offre hospitalière en addictologie, révélant :
+- **504 établissements** répondants, avec un taux de réponse de 62%.
+- **282 établissements autorisés en MCO**, 103 en psychiatrie, et 79 en SSR (Soins de Suite et de Réadaptation).
+- **183 HDJA (Hospitalisations de Jour en Addictologie)** recensées, avec une **hétérogénéité des programmes** et des **équipes pluridisciplinaires** (infirmiers, psychologues, addictologues).
+- **Impact de la crise sanitaire** : Fermetures temporaires de lits et redéploiement des professionnels, avec une **réouverture progressive** depuis 2021.
 
-## Support multilingue
+### 2. Troubles cognitifs liés à l’alcool (TCLA) : Où et comment les soigne-t-on ?
 
-Une fonctionnalité très demandée : Blowfish est maintenant multilingue ! Si vous publiez votre contenu dans plusieurs langues, le site sera construit avec toutes les traductions disponibles.
+**Dr Frank Qestel** a présenté une **enquête du groupe de travail TCLA (COPAAH-SFA)** :
+- **60 000 patients** concernés en France, avec une **mauvaise répartition géographique** (concentration dans le Nord).
+- **24 structures SMR** et **11 HDJ** dédiées aux TCLA, ainsi que **5 structures résidentielles** (MAS, FAM, habitats inclusifs).
+- **Nouvelles classifications** des TCLA, avec une **approche pluridisciplinaire** (neuropsychologues, psychiatres, somaticiens).
+- **Filière de soin Resalcog** (Paris Nord) : Parcours structuré incluant **évaluation neuropsychologique**, **remédiation cognitive**, et **réhabilitation psychosociale**.
 
-<div class="text-2xl text-center" style="font-size: 2.8rem">🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇨🇳 🇧🇷 🇹🇷 🇧🇩</div>
+### 3. HDJA en MCO et SMR : Programmes thérapeutiques
 
-Grâce aux contributions de la communauté, Blowfish a déjà été traduit en [trente langues](https://github.com/nunocoracao/blowfish/tree/main/i18n), et d'autres seront ajoutées au fil du temps. D'ailleurs, les [pull requests](https://github.com/nunocoracao/blowfish/pulls) pour de nouvelles langues sont toujours les bienvenues !
+**Dr Romain Gomet, Dr Gonzague De Larocque-Latour, et Dr Nicolas Thiercelin** ont détaillé les **programmes types** des HDJA :
+- **Programmes d’évaluation et d’orientation**, de **sevrage ou substitution ambulatoire**, d’**aide au changement**, et de **consolidation du changement**.
+- **Exemples de plannings** personnalisés, combinant **consultations médicales**, **thérapies motivationnelles**, **activités physiques adaptées**, et **synthèses pluridisciplinaires**.
+- **Hétérogénéité des prises en charge** selon les régions et les structures (MCO, SSR, psychiatrie).
 
-## Support des langues RTL
+### 4. Cas complexes et coordination des soins
 
-L'un des avantages des nouvelles fonctionnalités Tailwind et multilingues est la possibilité d'ajouter le support des langues RTL. Lorsqu'elle est activée, tout le contenu du site sera réorganisé de droite à gauche. Chaque élément du thème a été restylé pour s'assurer qu'il a fière allure dans ce mode, ce qui aide les auteurs qui souhaitent générer du contenu dans des langues RTL.
+**Pr Mélina Fatseas** a animé un atelier sur les **consultations complexes**, soulignant :
+- La nécessité d’une **évaluation globale** (somatique, psychiatrique, sociale).
+- L’importance des **réunions pluridisciplinaires** et des **Dispositifs d’Appui à la Coordination (DAC)**.
+- **Exemple clinique** : Une patiente en situation de **grossesse non désirée**, avec des **troubles psychiatriques** (TBP vs Borderline), des **addictions multiples**, et un **isolement social**, illustrant la **complexité des parcours** et la nécessité d’une **coordination renforcée**.
 
-Le RTL est contrôlé par langue, vous pouvez donc mélanger du contenu RTL et LTR dans vos projets et le thème répondra en conséquence.
+### 5. Psychiatrie et addictologie : Entre mariage impensé et divorce impensable
 
-## Redimensionnement automatique des images
+**Pr Georges Brousse et Dr Françoise Albertini** ont abordé les **défis de la prise en charge des pathologies duelles** :
+- **Difficultés diagnostiques** : L’addiction peut masquer ou aggraver les troubles psychiatriques (psychose, dépression, troubles de la personnalité).
+- **Errances thérapeutiques** : Nécessité d’une **approche synchronique** (présent) et **diachronique** (historique du patient).
+- **Coordination des acteurs** : Importance des **réseaux de soins** (sanitaire, médico-social, social) et des **case managers** pour éviter les ruptures de parcours.
 
-Un grand changement dans Blowfish 2.0 est l'ajout du redimensionnement automatique des images. En utilisant la puissance de Hugo Pipes, les images dans le contenu Markdown sont maintenant automatiquement redimensionnées à différentes tailles de sortie. Celles-ci sont ensuite présentées en utilisant les attributs HTML `srcset`, permettant de servir des tailles de fichiers optimisées à vos visiteurs.
+---
 
-![Image avec texte alternatif](image-resizing.png)
+## Messages clés
 
-```html
-<!-- Markdown: ![Mon image](image.jpg) -->
-<img
-  srcset="
-    /image_320x0_resize_q75_box.jpg 320w,
-    /image_635x0_resize_q75_box.jpg 635w,
-    /image_1024x0_resize_q75_box.jpg 1024w"
-  src="/image_635x0_resize_q75_box.jpg"
-  alt="Mon image"
-/>
-```
+- Les **troubles cognitifs liés à l’alcool (TCLA)** et les **pathologies duelles** nécessitent une **prise en charge spécialisée et coordonnée**, combinant **évaluation neuropsychologique**, **remédiation cognitive**, et **accompagnement social**.
+- Les **HDJA** jouent un rôle clé dans les **parcours de soins**, en offrant des **programmes thérapeutiques adaptés** (sevrage, consolidation, réduction des risques).
+- La **coordination entre les acteurs** (sanitaires, médico-sociaux, sociaux) est essentielle pour éviter les **ruptures de parcours** et améliorer la **qualité des soins**.
+- Les **réformes récentes** (SMR, HDJA, DAC) visent à **harmoniser l’offre de soins** et à **renforcer l’articulation entre les différents niveaux de prise en charge**.
 
-Le meilleur, c'est qu'il n'y a rien à changer ! Utilisez simplement la syntaxe d'image Markdown standard et laissez le thème faire le reste. Si vous voulez un peu plus de contrôle, le shortcode `figure` a été entièrement réécrit pour offrir les mêmes avantages de redimensionnement.
+---
 
+## Perspectives
+- **Développement des outils d’évaluation** pour mieux identifier et prendre en charge les cas complexes.
+- **Renforcement des liens entre les secteurs** (sanitaire, médico-social, social) pour une **prise en charge globale et continue**.
+- **Formation des professionnels** à la gestion des cas complexes et à l’utilisation des **dispositifs de coordination** (DAC, RCP, case managers).
 
-## Recherche sur le site
+---
 
-Alimentée par [Fuse.js](https://fusejs.io), la recherche sur le site permet aux visiteurs de trouver rapidement et facilement votre contenu. Toutes les recherches sont effectuées côté client, ce qui signifie qu'il n'y a rien à configurer sur le serveur et que les requêtes sont exécutées super rapidement. Activez simplement la fonctionnalité dans la configuration de votre site et c'est tout. Ah, et elle prend également en charge la navigation complète au clavier !
+## Conclusion
 
-## Tables des matières
+Les 12èmes Journées Nationales du COPAAH 2023 ont souligné l’importance d’une **approche intégrée et coordonnée** pour répondre aux besoins des patients souffrant de troubles addictifs complexes. Les **réformes en cours**, les **innovations organisationnelles** (HDJA, SMR, DAC), et la **collaboration entre les acteurs** sont des leviers essentiels pour améliorer la **qualité des parcours de soins** et réduire les inégalités d’accès aux soins.
 
-Une fonctionnalité très demandée : Blowfish prend maintenant en charge les tables des matières sur les pages d'articles. Vous pouvez la voir en action sur cette page. Le contenu est entièrement responsive et s'adaptera pour tirer parti de l'espace disponible à différentes résolutions d'écran.
+---
 
-Disponible globalement ou par article, la table des matières peut être entièrement personnalisée en utilisant les valeurs de configuration standard de Hugo, vous permettant d'adapter le comportement à votre projet.
-
-## Améliorations de l'accessibilité
-
-De l'ajout de descriptions ARIA à plus d'éléments au simple ajustement du contraste de certains éléments de texte, cette version est la plus accessible à ce jour.
-
-La version 2 introduit également des liens "passer au contenu" et "retour en haut" qui permettent une navigation rapide. Il y a également des raccourcis clavier pour activer des éléments comme la recherche sans avoir à utiliser la souris.
-
-Les nouvelles fonctionnalités de redimensionnement d'images offrent également un contrôle total sur les éléments `alt` et `title`, permettant une expérience accessible pour tous les visiteurs.
-
-## Et bien plus encore
-
-Il y a d'innombrables autres fonctionnalités à explorer. De la possibilité d'afficher des taxonomies sur les articles et les pages de liste, à l'utilisation du nouveau paramètre d'auteur `headline` pour personnaliser votre page d'accueil. Il y a également des données structurées JSON-LD améliorées qui optimisent davantage les performances SEO.
+##  Question ouverte
+Comment les professionnels de santé et les institutions peuvent-ils renforcer leur collaboration pour mieux répondre aux besoins des patients présentant des situations cliniques complexes en addictologie ?

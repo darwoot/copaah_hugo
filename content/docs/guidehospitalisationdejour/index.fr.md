@@ -1,78 +1,92 @@
 ---
-title: "Guide d'hospitalisation de jour du COPAAH"
+title: "L’Hôpital de Jour en Addictologie (HDJA) : Un levier pour des parcours de soins innovants"
+description: "Découvrez le guide pratique du COPAAH sur les Hôpitaux de Jour en Addictologie (HDJA), un outil clé pour des soins intensifs et personnalisés."
 weight: 2
+date: 2024-06-20
 draft: false
-description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2023"
-tags: ["nouveau", "documentation"]
+authors: ["COPAAH"]
+categories: ["Addictologie", "Parcours de soins", "Nouveau", "Documentation"]
+tags: ["HDJA", "Addiction", "Soins ambulatoires", "Pluridisciplinarité", "Guide pratique"]
 series: ["Documentation"]
 series_order: 1
 ---
 
+
 {{< lead >}}
-Blowfish regorge de fonctionnalités.
+L’**Hôpital de Jour en Addictologie (HDJA)** est un dispositif **intermédiaire entre l’hospitalisation complète et le suivi ambulatoire**, offrant des **soins intensifs et pluridisciplinaires** tout en maintenant les patients dans leur environnement naturel. Ce guide pratique, élaboré par le **COPAAH**, clarifie le cadre réglementaire, les missions et propose des **programmes thérapeutiques adaptés** pour les professionnels.
 {{< /lead >}}
 
-L'objectif initial de Blowfish était de développer un thème simple et léger. Le thème est un fork de <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> et étend sa vision initiale.
 
-## Tailwind CSS 3.0
+---
 
-Tailwind CSS est au cœur de Blowfish et cette version contient la toute dernière [Tailwind CSS version 3](https://tailwindcss.com/blog/tailwindcss-v3). Elle apporte des optimisations de performances et la prise en charge de nouvelles fonctionnalités CSS intéressantes.
+## Pourquoi un HDJA ?
+Les HDJA répondent aux besoins de patients présentant des **troubles addictifs complexes** (substances ou comportements), souvent associés à des **comorbidités psychiatriques ou somatiques**. Ils permettent :
+- Une **prise en charge intensive** sans rupture avec le milieu de vie.
+- Une **approche personnalisée**, combinant soins médicaux, psychologiques et sociaux.
+- Une **alternative à l’hospitalisation complète**, réduisant les coûts et les risques de désocialisation.
 
-{{< youtube "TmWIrBPE6Bc" >}}
+Les HDJA interviennent à différents moments du parcours :
+- Évaluation initiale.
+- Sevrage ou substitution ambulatoire.
+- Consolidation de l’abstinence.
+- Prise en charge de troubles cognitifs ou de pathologies duelles.
 
-## Support multilingue
+---
 
-Une fonctionnalité très demandée : Blowfish est maintenant multilingue ! Si vous publiez votre contenu dans plusieurs langues, le site sera construit avec toutes les traductions disponibles.
+## Cadre réglementaire et types de HDJA
 
-<div class="text-2xl text-center" style="font-size: 2.8rem">🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇨🇳 🇧🇷 🇹🇷 🇧🇩</div>
+Trois types de HDJA coexistent selon leur financement :
 
-Grâce aux contributions de la communauté, Blowfish a déjà été traduit en [trente langues](https://github.com/nunocoracao/blowfish/tree/main/i18n), et d'autres seront ajoutées au fil du temps. D'ailleurs, les [pull requests](https://github.com/nunocoracao/blowfish/pulls) pour de nouvelles langues sont toujours les bienvenues !
+| **Type**               | **Financement**             | **Indications**                                                               |
+|------------------------|-----------------------------|-------------------------------------------------------------------------------|
+| **HDJA MCO**           | GHS                         | Prise en charge intensive et limitée dans le temps (sevrage, évaluation).     |
+| **HDJA SMR**           | Mixte (activité + dotation) | Réadaptation complexe pour troubles cognitifs ou pathologies duelles.         |
+| **HDJA Psychiatrie**   | DAF ou T2A                  | Addictions avec comorbidités psychiatriques sévères.                          |
 
-## Support des langues RTL
+Chaque type nécessite une **équipe pluridisciplinaire** (médecin, infirmier, psychologue, travailleur social) et des **locaux adaptés**.
 
-L'un des avantages des nouvelles fonctionnalités Tailwind et multilingues est la possibilité d'ajouter le support des langues RTL. Lorsqu'elle est activée, tout le contenu du site sera réorganisé de droite à gauche. Chaque élément du thème a été restylé pour s'assurer qu'il a fière allure dans ce mode, ce qui aide les auteurs qui souhaitent générer du contenu dans des langues RTL.
+---
 
-Le RTL est contrôlé par langue, vous pouvez donc mélanger du contenu RTL et LTR dans vos projets et le thème répondra en conséquence.
+## Programmes thérapeutiques proposés
+Le guide détaille huit programmes types, modulables selon les besoins :
 
-## Redimensionnement automatique des images
+- **Évaluation et orientation** : Bilan pluridisciplinaire pour proposer un parcours adapté.
+- **Sevrage ou substitution ambulatoire** : Accompagnement sécurisé avec surveillance clinique et ETP.
+- **Aide au changement** : Thérapies motivationnelles et TCC pour les patients ambivalents.
+- **Consolidation du changement** : Prévention des rechutes et réhabilitation psychosociale.
+- **Réduction des risques** : Accompagnement des patients non abstinents.
+- **Troubles cognitifs** : Remédiation cognitive et réadaptation pour les patients atteints de syndrome de Korsakoff ou d’encéphalopathie alcoolique.
+- **Pathologies duelles** : Prise en charge intégrée des addictions et troubles psychiatriques.
+- **Troubles du comportement alimentaire** : Ateliers diététiques et thérapies corporelles.
 
-Un grand changement dans Blowfish 2.0 est l'ajout du redimensionnement automatique des images. En utilisant la puissance de Hugo Pipes, les images dans le contenu Markdown sont maintenant automatiquement redimensionnées à différentes tailles de sortie. Celles-ci sont ensuite présentées en utilisant les attributs HTML `srcset`, permettant de servir des tailles de fichiers optimisées à vos visiteurs.
+---
 
-![Image avec texte alternatif](image-resizing.png)
+## Mise en œuvre pratique
+Pour créer un HDJA, les professionnels doivent :
+- Identifier les besoins du territoire en collaboration avec les CSAPA et services de psychiatrie.
+- Constituer une équipe pluridisciplinaire et définir des programmes adaptés.
+- S’assurer des locaux et financements, en respectant les exigences réglementaires.
+- Former l’équipe aux approches spécifiques (remédiation cognitive, thérapies motivationnelles).
 
-```html
-<!-- Markdown: ![Mon image](image.jpg) -->
-<img
-  srcset="
-    /image_320x0_resize_q75_box.jpg 320w,
-    /image_635x0_resize_q75_box.jpg 635w,
-    /image_1024x0_resize_q75_box.jpg 1024w"
-  src="/image_635x0_resize_q75_box.jpg"
-  alt="Mon image"
-/>
-```
+Des outils comme le **dossier patient**, le **règlement intérieur** et le **contrat de soins** sont indispensables pour garantir la qualité et la traçabilité des prises en charge.
 
-Le meilleur, c'est qu'il n'y a rien à changer ! Utilisez simplement la syntaxe d'image Markdown standard et laissez le thème faire le reste. Si vous voulez un peu plus de contrôle, le shortcode `figure` a été entièrement réécrit pour offrir les mêmes avantages de redimensionnement.
+---
 
+## Perspectives
+Les HDJA représentent une avancée majeure pour une prise en charge **intégrée et flexible** des addictions. Leur développement nécessite :
+- Un **décloisonnement** entre les acteurs sanitaires, médico-sociaux et de ville.
+- Une **évaluation continue** de leur impact sur les parcours de soins.
+- Une **reconnaissance** dans les schémas régionaux de santé et un financement pérenne.
 
-## Recherche sur le site
+---
 
-Alimentée par [Fuse.js](https://fusejs.io), la recherche sur le site permet aux visiteurs de trouver rapidement et facilement votre contenu. Toutes les recherches sont effectuées côté client, ce qui signifie qu'il n'y a rien à configurer sur le serveur et que les requêtes sont exécutées super rapidement. Activez simplement la fonctionnalité dans la configuration de votre site et c'est tout. Ah, et elle prend également en charge la navigation complète au clavier !
+## Ressources utiles
 
-## Tables des matières
+- Circulaire DHOS/O2/2008/299 du 26 septembre 2008 (filière hospitalière en addictologie).
+- Décrets 2022-24/25 (conditions techniques des SMR et psychiatrie).
 
-Une fonctionnalité très demandée : Blowfish prend maintenant en charge les tables des matières sur les pages d'articles. Vous pouvez la voir en action sur cette page. Le contenu est entièrement responsive et s'adaptera pour tirer parti de l'espace disponible à différentes résolutions d'écran.
+---
+**Question aux lecteurs** :
 
-Disponible globalement ou par article, la table des matières peut être entièrement personnalisée en utilisant les valeurs de configuration standard de Hugo, vous permettant d'adapter le comportement à votre projet.
+*Comment envisagez-vous l’intégration d’un HDJA dans votre territoire ou votre établissement ? Quels freins ou leviers identifiez-vous ?*
 
-## Améliorations de l'accessibilité
-
-De l'ajout de descriptions ARIA à plus d'éléments au simple ajustement du contraste de certains éléments de texte, cette version est la plus accessible à ce jour.
-
-La version 2 introduit également des liens "passer au contenu" et "retour en haut" qui permettent une navigation rapide. Il y a également des raccourcis clavier pour activer des éléments comme la recherche sans avoir à utiliser la souris.
-
-Les nouvelles fonctionnalités de redimensionnement d'images offrent également un contrôle total sur les éléments `alt` et `title`, permettant une expérience accessible pour tous les visiteurs.
-
-## Et bien plus encore
-
-Il y a d'innombrables autres fonctionnalités à explorer. De la possibilité d'afficher des taxonomies sur les articles et les pages de liste, à l'utilisation du nouveau paramètre d'auteur `headline` pour personnaliser votre page d'accueil. Il y a également des données structurées JSON-LD améliorées qui optimisent davantage les performances SEO.
