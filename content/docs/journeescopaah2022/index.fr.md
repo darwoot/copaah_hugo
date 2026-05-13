@@ -1,20 +1,20 @@
 ---
-title: "Journées Nationales du COPAAH 2022"
+title: "Journée Nationale du COPAAH 2022"
 weight: 6
 draft: false
-description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2022"
+description: "Découvrez le programme et la rétrospective de la Journée du COPAAH 2022"
 tags: ["journées"]
 #series: ["Documentation"]
 #series_order: 11
 ---
 
-# 11èmes Journées Nationales du COPAAH 2022 : Parcours de soins addictologiques : Cas complexes et coordination des soins
+# 11ème Journée Nationale du COPAAH 2022 : Parcours de soins addictologiques : Cas complexes et coordination des soins
 **Lieu et date :**
 - Hôpital Paul Brousse (Villejuif).
 - Vendredi 18 novembre 2022
 
 {{< lead >}}
-Les Journées Nationales du COPAAH 2022 ont mis l’accent sur la **prise en charge des cas complexes en addictologie**, en soulignant l’importance de la **coordination entre les acteurs sanitaires, médico-sociaux et sociaux**. L’objectif était d’améliorer la fluidité des parcours de soins pour les patients présentant des situations cliniques instables, multifactorielles et nécessitant une approche pluridisciplinaire.
+La Journée Nationale du COPAAH 2022 a mis l’accent sur la **prise en charge des cas complexes en addictologie**, en soulignant l’importance de la **coordination entre les acteurs sanitaires, médico-sociaux et sociaux**. L’objectif était d’améliorer la fluidité des parcours de soins pour les patients présentant des situations cliniques instables, multifactorielles et nécessitant une approche pluridisciplinaire.
 {{< /lead >}}
 
 ## Points forts des interventions
@@ -32,7 +32,7 @@ Les outils d’évaluation, comme l’**Addiction Severity Index**, permettent d
 
 **Dr Vanghélis Anastassiou** (Sèvres) a présenté un **cas clinique** illustrant la transmission transgénérationnelle de la souffrance et des troubles psychiatriques, avec des enjeux sociaux, familiaux et judiciaires majeurs.
 
-**Dr Sonia Arfaoui, Dr Julien Azuar et Dr Franck Qestel** (Paris) ont analysé un cas de **troubles cognitifs multifactoriels chez un patient alcoolo-dépendant**, mettant en lumière la nécessité d’une **évaluation neuropsychologique approfondie** et d’une **prise en charge adaptée** (SSR neurocognitif, coordination avec les structures médico-sociales).
+**Dr Sonia Arfaoui, Dr Julien Azuar et Dr Franck Qestel** (Paris) ont analysé un cas de **troubles cognitifs multifactoriels chez un patient alcoolo-dépendant**, mettant en lumière la nécessité d’une **évaluation neuropsychologique approfondie** et d’une **prise en charge adaptée** (SMR-A à expertise neurocognitive, coordination avec les structures d’aval, médico-sociales, sociales etc).
 
 ### 3. Rôle du secteur médico-social
 
@@ -44,7 +44,7 @@ Les outils d’évaluation, comme l’**Addiction Severity Index**, permettent d
 
 ### 4. Réforme des autorisations SMR et HDJA
 
-**Géraldine Austruy et Michel Morin** ont présenté les **évolutions réglementaires** concernant les **Soins Médicaux et de Réadaptation (SMR)** et les **Hospitalisations de Jour en Addictologie (HDJA)** :
+**Géraldine Austruy et Michel Morin** ont présenté les **évolutions réglementaires** concernant les **Soins Médicaux et de Réadaptation (SMR)** et les **Hospitalisations de Jour (HDJ-A) en addictologie** :
 
 - **Obligation de proposer des prises en charge en HDJ** et en hospitalisation complète.
 - **Reconnaissance des activités d’expertise** (troubles cognitifs sévères, pathologies duelles).
@@ -63,7 +63,7 @@ Trois ateliers ont permis d’approfondir des thématiques clés :
 
 - Les **cas complexes en addictologie** nécessitent une **approche intégrée**, combinant **évaluation multidimensionnelle**, **coordination des acteurs** et **adaptation des parcours de soins**.
 - La **réforme des autorisations SMR** et le **renforcement des HDJA** visent à améliorer l’accès aux soins et la qualité des prises en charge.
-- Le **secteur médico-social** joue un rôle central dans l’accompagnement des patients, notamment grâce aux **DAC** et aux **CSAPA**.
+- Le **secteur médico-social** joue un rôle central dans l’accompagnement des patients.
 - La **coordination** entre les acteurs sanitaires, médico-sociaux et sociaux est essentielle pour éviter les ruptures de parcours et répondre aux besoins des patients.
 
 ---
@@ -77,7 +77,7 @@ Trois ateliers ont permis d’approfondir des thématiques clés :
 ---
 
 ## Conclusion
-Les 11èmes Journées Nationales du COPAAH 2022 ont mis en lumière les **défis posés par les cas complexes en addictologie** et l’importance d’une **coordination renforcée** entre tous les acteurs. Les réformes en cours et les innovations organisationnelles (DAC, HDJA, SMR) devraient permettre d’améliorer significativement la prise en charge des patients, en combinant **expertise médicale**, **accompagnement social** et **approche pluridisciplinaire**.
+La 11ème Journée Nationale du COPAAH 2022 a mis en lumière les **défis posés par les cas complexes en addictologie** et l’importance d’une **coordination renforcée** entre tous les acteurs. Les réformes en cours et les innovations organisationnelles (DAC, HDJA, SMR) devraient permettre d’améliorer significativement la prise en charge des patients, en combinant **expertise médicale**, **accompagnement social** et **approche pluridisciplinaire**.
 
 ---
 

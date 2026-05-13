@@ -18,7 +18,7 @@ article:
   part_of_series: "Cet article fait partie d'une série."
   part: "Partie"
   this_article: "Cet article"
-  related_articles: "Articles connexes"
+  related_articles: "Publications associées"
   reply_by_email: "Répondre par email"
   zen_mode_title:
     enable: "Activer le mode zen"
@@ -76,7 +76,7 @@ sharing:
   twitter: "Tweeter"
 
 shortcode:
-  recent_articles: "Articles récents"
+  recent_articles: "Travaux récents"
 
 recent:
   show_more: "Voir plus"

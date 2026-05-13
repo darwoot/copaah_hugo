@@ -1,14 +1,14 @@
 ---
-title: "Journées Nationales du COPAAH 2023"
+title: "Journée Nationale du COPAAH 2023"
 weight: 7
 draft: false
-description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2023"
+description: "Découvrez le programme et la rétrospective de la Journée du COPAAH 2023"
 tags: ["journées"]
 #series: ["Documentation"]
 #series_order: 10
 ---
 
-# 12èmes Journées Nationales du COPAAH 2023 : Parcours de soins addictologiques et coordination des acteurs
+# 12ème Journée Nationale du COPAAH 2023 : Parcours de soins addictologiques et coordination des acteurs
 
 ## **Lieu et date**
 Ministère de la Santé, Amphithéâtre Laroque (Paris).
@@ -17,7 +17,7 @@ Vendredi 24 novembre 2023
 {{< lead >}}
 **Parcours de soins addictologiques et offre de soins hospitalière : Gros plan sur les travaux récents du COPAAH**
 
-Les 12èmes Journées Nationales du COPAAH ont mis en lumière les **enjeux de la coordination des soins** pour les patients souffrant de troubles addictifs, en particulier ceux présentant des **cas complexes** (pathologies duelles, troubles cognitifs liés à l’alcool, etc.). L’accent a été mis sur l’articulation entre les acteurs sanitaires, médico-sociaux et sociaux, ainsi que sur les **réformes récentes** et les **bonnes pratiques** en matière de prise en charge.
+La 12ème Journée Nationale du COPAAH a mis en lumière les **enjeux de la coordination des soins** pour les patients souffrant de troubles addictifs, en particulier ceux présentant des **situations complexes** (pathologies duelles, troubles cognitifs liés à l’alcool, etc.). L’accent a été mis sur l’articulation entre les acteurs sanitaires, médico-sociaux et sociaux, ainsi que sur les **réformes récentes** et les **bonnes pratiques** en matière de prise en charge.
 {{< /lead >}}
 
 ---
@@ -35,7 +35,7 @@ Les 12èmes Journées Nationales du COPAAH ont mis en lumière les **enjeux de l
 ### 2. Troubles cognitifs liés à l’alcool (TCLA) : Où et comment les soigne-t-on ?
 
 **Dr Frank Qestel** a présenté une **enquête du groupe de travail TCLA (COPAAH-SFA)** :
-- **60 000 patients** concernés en France, avec une **mauvaise répartition géographique** (concentration dans le Nord).
+- **60 000 patients** concernés en France, avec une **répartition géographique inégale** (concentration dans le Nord).
 - **24 structures SMR** et **11 HDJ** dédiées aux TCLA, ainsi que **5 structures résidentielles** (MAS, FAM, habitats inclusifs).
 - **Nouvelles classifications** des TCLA, avec une **approche pluridisciplinaire** (neuropsychologues, psychiatres, somaticiens).
 - **Filière de soin Resalcog** (Paris Nord) : Parcours structuré incluant **évaluation neuropsychologique**, **remédiation cognitive**, et **réhabilitation psychosociale**.
@@ -44,14 +44,14 @@ Les 12èmes Journées Nationales du COPAAH ont mis en lumière les **enjeux de l
 
 **Dr Romain Gomet, Dr Gonzague De Larocque-Latour, et Dr Nicolas Thiercelin** ont détaillé les **programmes types** des HDJA :
 - **Programmes d’évaluation et d’orientation**, de **sevrage ou substitution ambulatoire**, d’**aide au changement**, et de **consolidation du changement**.
-- **Exemples de plannings** personnalisés, combinant **consultations médicales**, **thérapies motivationnelles**, **activités physiques adaptées**, et **synthèses pluridisciplinaires**.
-- **Hétérogénéité des prises en charge** selon les régions et les structures (MCO, SSR, psychiatrie).
+- **Exemples de plannings** personnalisés, combinant **consultations médicales**, **thérapies motivationnelles**, **activité physique adaptée**, et **synthèses pluridisciplinaires**.
+- **Hétérogénéité des prises en charge** selon les régions et les structures (MCO, SMR, psychiatrie).
 
 ### 4. Cas complexes et coordination des soins
 
 **Pr Mélina Fatseas** a animé un atelier sur les **consultations complexes**, soulignant :
 - La nécessité d’une **évaluation globale** (somatique, psychiatrique, sociale).
-- L’importance des **réunions pluridisciplinaires** et des **Dispositifs d’Appui à la Coordination (DAC)**.
+- L’importance des **réunions pluridisciplinaires**
 - **Exemple clinique** : Une patiente en situation de **grossesse non désirée**, avec des **troubles psychiatriques** (TBP vs Borderline), des **addictions multiples**, et un **isolement social**, illustrant la **complexité des parcours** et la nécessité d’une **coordination renforcée**.
 
 ### 5. Psychiatrie et addictologie : Entre mariage impensé et divorce impensable
@@ -68,20 +68,21 @@ Les 12èmes Journées Nationales du COPAAH ont mis en lumière les **enjeux de l
 - Les **troubles cognitifs liés à l’alcool (TCLA)** et les **pathologies duelles** nécessitent une **prise en charge spécialisée et coordonnée**, combinant **évaluation neuropsychologique**, **remédiation cognitive**, et **accompagnement social**.
 - Les **HDJA** jouent un rôle clé dans les **parcours de soins**, en offrant des **programmes thérapeutiques adaptés** (sevrage, consolidation, réduction des risques).
 - La **coordination entre les acteurs** (sanitaires, médico-sociaux, sociaux) est essentielle pour éviter les **ruptures de parcours** et améliorer la **qualité des soins**.
-- Les **réformes récentes** (SMR, HDJA, DAC) visent à **harmoniser l’offre de soins** et à **renforcer l’articulation entre les différents niveaux de prise en charge**.
+- Les **réformes récentes** (SMRA, HDJ-A) visent à **harmoniser l’offre de soins** et à **renforcer l’articulation entre les différents niveaux de prise en charge**.
 
 ---
 
 ## Perspectives
 - **Développement des outils d’évaluation** pour mieux identifier et prendre en charge les cas complexes.
 - **Renforcement des liens entre les secteurs** (sanitaire, médico-social, social) pour une **prise en charge globale et continue**.
+- **Reconnaissance des activités d’expertise** dans l’évaluation des **TC sévères**
 - **Formation des professionnels** à la gestion des cas complexes et à l’utilisation des **dispositifs de coordination** (DAC, RCP, case managers).
 
 ---
 
 ## Conclusion
 
-Les 12èmes Journées Nationales du COPAAH 2023 ont souligné l’importance d’une **approche intégrée et coordonnée** pour répondre aux besoins des patients souffrant de troubles addictifs complexes. Les **réformes en cours**, les **innovations organisationnelles** (HDJA, SMR, DAC), et la **collaboration entre les acteurs** sont des leviers essentiels pour améliorer la **qualité des parcours de soins** et réduire les inégalités d’accès aux soins.
+La 12ème Journée Nationale du COPAAH 2023 a souligné l’importance d’une **approche intégrée et coordonnée** pour répondre aux besoins des patients souffrant de troubles addictifs complexes. Les **réformes en cours**, les **innovations organisationnelles** (HDJA, SMRA, DAC), et la **collaboration entre les acteurs et leur formation** sont des leviers essentiels pour améliorer la **qualité des parcours de soins** et réduire les inégalités d’accès aux soins.
 
 ---
 

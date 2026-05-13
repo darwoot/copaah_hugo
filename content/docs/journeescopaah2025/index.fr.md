@@ -1,14 +1,14 @@
 ---
-title: "Journées Nationales du COPAAH 2025"
+title: "Journée Nationale du COPAAH 2025"
 weight: 9
 draft: false
-description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2025"
+description: "Découvrez le programme et la rétrospective de la Journée du COPAAH 2025"
 tags: ["nouveau", "journées"]
 #series: ["Documentation"]
 #series_order: 8
 ---
 
-# 14èmes Journées Nationales du COPAAH 2025 : Urgence et crise en addictologie – Entre rupture et entrée dans le parcours de soins
+# 14ème Journée Nationale du COPAAH 2025 : Urgence et crise en addictologie – Entre rupture et entrée dans le parcours de soins
 
 ## **Lieu et date**
 Hôpital Paul Brousse (Villejuif)
@@ -17,7 +17,7 @@ Vendredi 21 novembre 2025
 {{< lead >}}
 **Urgence et crise en addictologie : Comment répondre aux enjeux de la crise et de l’urgence, quels acteurs, quelle coordination, et quelle spécificité des parcours de soins ?**
 
-Les 14èmes Journées Nationales du COPAAH ont exploré les **défis posés par les situations d’urgence et de crise en addictologie**, en mettant l’accent sur l’articulation entre les acteurs sanitaires, médico-sociaux et sociaux. Les échanges ont porté sur les **réformes en cours**, les **innovations organisationnelles** (télésanté, équipes mobiles), et les **bonnes pratiques** pour améliorer la prise en charge des patients en situation de vulnérabilité.
+La 14ème Journée Nationale du COPAAH a exploré les **défis posés par les situations d’urgence et de crise en addictologie**, en mettant l’accent sur l’articulation entre les acteurs sanitaires, médico-sociaux et sociaux. Les échanges ont porté sur les **réformes en cours**, les **innovations organisationnelles** (télésanté, équipes mobiles), et les **bonnes pratiques** pour améliorer la prise en charge des patients en situation de vulnérabilité.
 {{< /lead >}}
 
 ---
@@ -64,12 +64,12 @@ Les 14èmes Journées Nationales du COPAAH ont exploré les **défis posés par 
 **Pr Alain Dervaux** et **Dr Frank Qestel** ont abordé la prise en charge des **troubles cognitifs sévères liés à l’alcool (TCSLA)** :
 
 - **Encéphalopathie de Gayet-Wernicke** :
-  - **Diagnostic** : Triade clinique (confusion, troubles oculomoteurs, ataxie), souvent **sous-diagnostiquée**.
+  - **Diagnostic** : Triade clinique (confusion, troubles oculomoteurs, ataxie), souvent **sous-diagnostiquée** car incomplète.
   - **Traitement** : **Vitamine B1 (thiamine) en urgence** (500 à 1500 mg/j IV).
   - **Prévention** : Dépistage systématique (critères de Caine, MoCA, BEARNI).
 
 - **Filière de soin Resalcog** (Paris Nord) :
-  - Parcours structuré : **SAU → médecine interne → SMR neurocognitif → MAS/Foyers de vie**.
+  - Parcours structuré : **SAU → médecine interne → SMRA neurocognitif → MAS/Foyers de vie**.
   - **Outils** : Bilan neuropsychologique, remédiation cognitive, et **réhabilitation psychosociale**.
 
 - **Cohorte Alcomemo** :
@@ -127,17 +127,17 @@ Les 14èmes Journées Nationales du COPAAH ont exploré les **défis posés par 
 
 ## Perspectives
 - **Finalisation de la refonte de la circulaire de 2008** (intégration des ELSA, CSAPA, CAARUD).
-- **Déploiement de la télémédecine** dans tous les territoires, avec des **outils sécurisés** et des **modalités de facturation claires**.
+- **Déploiement de la télémédecine et de la téléexpertise** dans tous les territoires, avec des **outils sécurisés** et des **modalités d'utilisation et de facturation claires**.
 - **Renforcement des équipes mobiles** et des **dispositifs de coordination** (DAC, CPTS) pour une prise en charge **continue et personnalisée**.
 - **Recherche clinique** : Validation des **biomarqueurs** (vitamine B1, imagerie cérébrale) et des **stratégies de remédiation cognitive**.
 
 ---
 
 ## Conclusion
-Les 14èmes Journées Nationales du COPAAH 2025 ont souligné l’importance d’une **approche intégrée et innovante** pour répondre aux défis des urgences et crises en addictologie. Les **avancées en télémédecine**, les **équipes mobiles**, et les **parcours de soins coordonnés** offrent des **solutions concrètes** pour améliorer l’accès aux soins et la qualité de vie des patients. La **collaboration entre tous les acteurs** (sanitaires, médico-sociaux, familles, institutions) reste un pilier essentiel pour construire des **réponses adaptées et durables**.
+La 14ème Journée Nationale du COPAAH 2025 a souligné l’importance d’une **approche intégrée et innovante** pour répondre aux défis des urgences et crises en addictologie. Les **avancées en télémédecine**, les **équipes mobiles**, et les **parcours de soins coordonnés** offrent des **solutions concrètes** pour améliorer l’accès aux soins et la qualité de vie des patients. La **collaboration entre tous les acteurs** (sanitaires, médico-sociaux, familles, institutions) reste un pilier essentiel pour construire des **réponses adaptées et durables**.
 
 ---
 
 ## Question ouverte
-Comment les professionnels de santé peuvent-ils mieux intégrer les **outils de télémédecine** et les **dispositifs mobiles** pour optimiser la prise en charge des situations d’urgence et de crise en addictologie ?
+Comment les professionnels de santé peuvent-ils mieux intégrer les **outils de télémédecine et de téléexpertise** et les **dispositifs mobiles** pour optimiser la prise en charge des situations d’urgence et de crise en addictologie ?
 

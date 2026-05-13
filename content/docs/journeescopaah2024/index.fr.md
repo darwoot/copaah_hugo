@@ -1,14 +1,14 @@
 ---
-title: "Journées Nationales du COPAAH 2024"
+title: "Journée Nationale du COPAAH 2024"
 weight: 8
 draft: false
-description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2024"
+description: "Découvrez le programme et la rétrospective de la Journée du COPAAH 2024"
 tags: ["journées"]
 #series: ["Documentation"]
 #series_order: 9
 ---
 
-# 13èmes Journées Nationales du COPAAH 2024 : Construire des parcours de soins addictologiques adaptés – Focus sur les troubles cognitifs liés aux substances
+# 13ème Journée Nationale du COPAAH 2024 : Construire des parcours de soins addictologiques adaptés – Focus sur les troubles cognitifs liés aux substances
 
 ## **Lieu et date**
 Ministère de la Santé, Amphithéâtre Laroque (Paris).
@@ -17,7 +17,7 @@ Vendredi 6 décembre 2024
 {{< lead >}}
 **Construire des parcours de soins addictologiques adaptés, avec un focus sur les troubles cognitifs liés aux substances psychoactives.**
 
-Les 13èmes Journées Nationales du COPAAH ont mis en avant les **défis posés par les troubles cognitifs sévères liés à l’alcool et aux substances**, ainsi que les **stratégies pour améliorer leur prise en charge**. Les échanges ont porté sur l’évaluation, l’orientation, la coordination des acteurs, et les perspectives de recherche, notamment en matière de **biomarqueurs** et d’**imagerie cérébrale**.
+La 13ème Journée Nationale du COPAAH a mis en avant les **défis posés par les troubles cognitifs sévères liés à l’alcool et aux substances**, ainsi que les **stratégies pour améliorer leur prise en charge**. Les échanges ont porté sur l’évaluation, l’orientation, la coordination des acteurs, et les perspectives de recherche, notamment en matière de **biomarqueurs** et d’**imagerie cérébrale**.
 {{< /lead >}}
 
 ---
@@ -44,7 +44,7 @@ Les 13èmes Journées Nationales du COPAAH ont mis en avant les **défis posés 
 **Dr Laure Rativeau** (Unité Serge Korsakoff, Villeneuve-la-Garenne) a présenté le **projet de service** de sa structure :
 - **15 lits** dédiés aux troubles cognitifs sévères, avec une **équipe pluridisciplinaire** (neuropsychologues, ergothérapeutes, travailleurs sociaux).
 - **Objectifs** : Réhabilitation psychosociale, autonomisation, et réinsertion professionnelle.
-- **Devenir des patients** : Orientation vers des **structures médico-sociales** (SAMSAH, SAVS, MAS) ou retour à domicile avec accompagnement.
+- **Devenir des patients** : Orientation vers des **structures médico-sociales et sociales** (SAMSAH, SAVS, MAS) ou retour à domicile avec accompagnement.
 
 ### 3. Prise en charge des troubles cognitifs sévères : Exemples concrets
 
@@ -91,7 +91,7 @@ Les 13èmes Journées Nationales du COPAAH ont mis en avant les **défis posés 
 
 ## Perspectives
 
-- **Développement de réseaux de soins** intégrant **SMR, HDJ, et structures médico-sociales** pour une prise en charge **continue et coordonnée**.
+- **Développement de réseaux de soins** intégrant **SMR, HDJ, et structures médico-sociales et sociales** pour une prise en charge **continue et coordonnée**.
 - **Formation des professionnels** à l’évaluation et à la gestion des troubles cognitifs, ainsi qu’à l’utilisation des **outils de coordination** (DAC, RCP).
 - **Recherche clinique** : Validation des **biomarqueurs** et des **techniques d’imagerie** pour une meilleure compréhension des mécanismes physiopathologiques et des **stratégies d’intervention**.
 
@@ -99,7 +99,7 @@ Les 13èmes Journées Nationales du COPAAH ont mis en avant les **défis posés 
 
 ## Conclusion
 
-Les 13èmes Journées Nationales du COPAAH 2024 ont souligné l’urgence d’une **approche globale et innovante** pour répondre aux défis posés par les troubles cognitifs liés aux substances. Les **avancées en matière de biomarqueurs**, d’**imagerie cérébrale**, et de **coordination des acteurs** offrent des **opportunités majeures** pour améliorer la prise en charge des patients et leur **qualité de vie**. La **collaboration entre professionnels, chercheurs, et familles** reste un pilier essentiel pour construire des **parcours de soins adaptés et durables**.
+La 13ème Journée Nationale du COPAAH 2024 a souligné l’urgence d’une **approche globale et innovante** pour répondre aux défis posés par les troubles cognitifs liés aux substances. Les **avancées en matière de biomarqueurs**, d’**imagerie cérébrale**, et de **coordination des acteurs** offrent des **opportunités majeures** pour améliorer la prise en charge des patients et leur **qualité de vie**. La **collaboration entre professionnels, chercheurs, et familles** reste un pilier essentiel pour construire des **parcours de soins adaptés et durables**.
 
 ---
 

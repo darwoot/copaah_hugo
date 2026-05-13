@@ -1,6 +1,6 @@
 ---
 title: "Ressources du CoPAAH"
-description: "Ensemble des ressources documentaires du COPAAH"
+description: "Ensemble des ressources documentaires et partenaires du COPAAH"
 layout: "simple"
 
 cascade:
@@ -121,7 +121,7 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 —> Organisation du contenu (sur site et sur le cloud partagé)
 —> Quelles ressources sont mises à dispo à fournir
 
-* Rétrospectives des journées année par année nationales et régionales avec programme et ppt ou webinaires
+* Rétrospectives des Journées Nationales et Régionales année par année avec programme, support de présentation et/ou webinaires
 * Ateliers webinaires
 * Livrables des groupes de travail (chronologiquement)
 * TUAL et troubles cognitifs 2014
@@ -131,7 +131,7 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 ### Exemple: Guide pratique HDJ-A 2024
 {{< article link="/docs/guidehospitalisationdejour/" showSummary=true compactSummary=true >}}
 
-### Exemple: Journées du COPAAH 
+### Exemple: Journées Nationales et Régionales du COPAAH 
 
 {{< listbytag cardView=true limit=10 tag="journées" >}}
 

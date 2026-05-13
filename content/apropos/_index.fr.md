@@ -316,7 +316,7 @@ sociétés savantes.
 - **Mettre à disposition des équipes hospitalières** conseils et aides méthodologiques pour la mise en œuvre des politiques publiques de santé en addictologie.
 - **Prendre en compte les rôles et places** de l’ensemble des acteurs de l’addictologie dans les parcours de soins.
 
-{{< alert icon="circle-info" cardColor="#6ab4ff" iconColor="#ffffff" textColor="#000000" >}}
+{{< alert icon="circle-info" cardColor="#dbeaff" iconColor="#ffffff" textColor="#000000" >}}
 La richesse de l'association est liée à la **collaboration étroite de ses adhérents**, personnes physiques qu’elles soient gestionnaires, administratives, médicales et soignantes issues du milieu hospitalier qu’il soit public, associatif, privé à but lucratif et privé à but non lucratif.
 {{< /alert >}}
 
@@ -326,17 +326,32 @@ La richesse de l'association est liée à la **collaboration étroite de ses adh
 
 ## Histoire
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more--> Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+Le **COPAAH** est né d’une réflexion du **Pr. François Paille**, qui en sera le président de 2007 à 2019, établissant le constat selon lequel depuis plusieurs années, différents groupes de travail se sont constitués, notamment sous l’égide de la Société Française d’Alcoologie **pour réfléchir à des préoccupations autour de la filière de soins en alcoologie et addictologie**, notamment au sein des établissements de santé, et de leur financement. Ces discussions ont fait apparaître un certain nombre de problèmes spécifiquement hospitaliers qui ont commencé à être traités, comme par exemple la création d’un GHS spécifique pour les soins complexes ou le combat difficile pour la reconnaissance d’une spécificité addictologique des SSR devenus aujourd’hui SMR.
+
+D’autres difficultés ont également émergé, comme le **positionnement des structures thématiques**, alcool ou tabac en particulier, au sein de l’addictologie hospitalière, problème, à peu près vierge, **des hôpitaux de jour**, **articulations entre systèmes sanitaire et médico-social** comme les consultations ou les soins de suite.
+
+Si des associations thématiques existaient déjà dans ce champ (ELSA, FNESAA, ASPSA), aucune structure ne rassemblait **l’ensemble de la communauté hospitalière pour discuter globalement de ces problèmes**, notamment dans le cadre des niveaux 1, 2 et 3 définis par le plan.
+A la suite d’une réunion fondatrice le 27 mars 2007, durant plusieurs mois, des discussions informelles entre différents acteurs de la communauté hospitalière et médico-sociale ont abouti à l’idée qu’un lieu d’échanges des problèmes professionnels qui se posent au sein de la communauté hospitalière était utile.
+
+Un courant s’est peu à peu dessiné pour organiser le paysage addictologique autour d’une part des sociétés savantes et d’autre part des représentations professionnelles. Si à l’époque l’ANPAA, la F3A et l’ANIT remplissaient cette mission pour le secteur médico-social, il paraissait cohérent de proposer parallèlement une structure professionnelle hospitalière.
+
+Un consensus établit la nécessité d’un lieu d’échanges de l’ensemble de la communauté hospitalière, tenant compte de l’histoire des associations existantes et de leur maintien, organisé autour des problématiques des établissements de santé, prenant en compte l’articulation avec d’autres partenaires.
+
+Le titre de cette nouvelle association est choisi, COPAAH « **CO**llège **P**rofessionnel des **A**cteurs de l’**A**ddictologie **H**ospitalière », et ses [objectifs énoncés](#missions) 
+
+{{< alert icon="circle-info" cardColor="#dbeaff" iconColor="#ffffff" textColor="#000000" >}}
+Quelle que soit leur association préexistante et leur établissement d’affectation, la représentation retenue est celle de personnes physiques volontaires. Les statuts sont élaborés, signés le 10 septembre 2007 et déposés en préfecture. Le COPAAH, association loi de 1901 naît sous cette forme le 05 Octobre 2007. Les statuts paraissent au JO le 3 novembre. Ils ont été modifiés et adoptés en AGE du 15 octobre 2021 sous la présidence du Dr. Vanghélis ANASTASSIOU
+{{< /alert >}}
+
+
+**Rédaction:** 
+Dr. Françoise ALBERTINI, 
+Secrétaire du COPAAH 
+
+
+### Interview du Pr. François PAILLE
 
 {{< youtube "hA_lfc2B2HQ" >}}
-
-### Sous-partie 1
-
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-
-### Sous-partie 2
-
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 
 <br>
 
@@ -352,11 +367,11 @@ Le Bureau du COPAAH est élu par le Conseil d'Administration constitué.
 
 ### Conseil d'administration
 
-Le Conseil d’Administration du CoPAAH est élu et renouvelé de façon triannuelle en assemblée générale par ses adhérents à jour de leur cotisation, personnes physiques dont l’adhésion individuelle obéit au principe du volontariat.
+Le Conseil d’Administration du **COPAAH** est élu et renouvelé de façon triannuelle en assemblée générale par ses adhérents à jour de leur cotisation, personnes physiques dont l’adhésion individuelle obéit au principe du volontariat.
 
 Il se réunit au minimum deux fois par an et coordonne les activités de l’association. Son organisation est découpée en 5 secteurs d’activités représentés par leurs acteurs:
 
-- Activités au sein de structures MCO de niveau 1, y compris les structures médico-sociales à gestion hospitalières
+- Activités au sein de structures MCO de niveau 1, y compris les structures médico-sociales à gestion hospitalière
 - Activités au sein de structures MCO de niveau 2 
 - Activités au sein de structures MCO de niveau 3
 - Activités au sein d’unités, de pôles et d’inter-secteurs d’addictologie en santé mentale
@@ -415,13 +430,46 @@ Sophie Velastegui<br>
 
 ## Représentation régionale
 
-Tout adhérent volontaire peut poser sa candidature **via le formulaire dédié (lien de téléchargement)**  à la représentation régionale du CoPAAH auprès:
+Dès Juin 2008, le COPAAH, conçu comme un groupe de praticiens hospitaliers, individuellement engagés, souhaitant pouvoir intervenir auprès des tutelles et participer aux processus visant à définir l’offre de soins en addictologie hospitalière, a souligné l’importance de la mise en place de correspondants régionaux avec **un double objectif**.
+
+Tout d’abord **le recueil d’informations précises sur la déclinaison du plan addiction en régions**, difficiles à obtenir par ailleurs, par des correspondants du milieu sanitaire addictologique se présentant en tant que tels aux administrations et tutelles concernées et participant aux travaux d’organisation de l’addictologie dans leur région en raison de la mise en place des commissions régionales addictions, d’un volet addictions du SROS, du schéma régional médico-social d’addictologie, du suivi de l’utilisation des crédits du plan et de l’évolution de l’organisation des filières hospitalières. 
+
+Enfin **l’utilité de correspondants bien informés**, compte tenu des difficultés sur le terrain, **pour les responsables des structures addictologiques hospitalières de chaque région** leur permettant de bénéficier de leurs informations et de leurs conseils pour l’évolution de leurs structures.  
+
+En effet, le développement des pratiques de soins et des techniques thérapeutiques en addictologie hospitalière ainsi que la conception des soins dans la perspective du parcours de soins ont fait émerger une offre de soins diversifiée qui cherche à s’adapter aux besoins particuliers et spécifiques de groupes de patients et à s’articuler avec d’autres séquences thérapeutiques dans un parcours de soins le plus possible personnalisé.
+Les prises en charge thérapeutiques se font fréquemment en réseau impliquant plusieurs structures thérapeutiques de sorte qu’une régionalisation des soins émerge de facto ; d’autant plus qu’une mutualisation régionale des compétences et des temps des praticiens apparaît nécessaire en raison de leur raréfaction. 
+
+Il en résulte un savoir expérientiel et pragmatique au niveau régional qui cherche à répondre aux exigences d’une offre de soins de plus en plus affinée issue des avancées scientifiques au niveau national et international et des demandes ministérielles au niveau national.
+Le COPAAH, avec d’autres acteurs, en tant qu’intermédiaire entre les praticiens du terrain et les instances, se trouve reconnu par ces dernières comme représentant des praticiens en addictologie hospitalière, censé pouvoir s’exprimer en leur nom quant aux pratiques, savoirs, besoins, mais aussi offre de soins et modalités organisationnelles.
+
+Il est dès lors amené à s’impliquer auprès de ses membres, élargis désormais à tous les acteurs hospitaliers, dans la collecte et la mise à disposition des savoirs et pratiques issus du terrain et à promouvoir la politique du COPAAH au niveau régional soit :
+- Diffusion au niveau régional partage des informations quant à l’offre de soins et les pratiques soignantes qui y sont associées
+- Promotion de la réflexion en commun et de la production d’un savoir-faire expérientiel étape intermédiaire entre deux avancées scientifiques profitant de la créativité des uns et des autres et des repérages précoces des questions émergeantes permettant l’avancement des nouvelles pratiques
+- Facilitation du parcours de soins des patients à partir de ce partage d’expériences 
+
+Le COPAAH continue donc à nommer des membres référents par région, réinterroge, confirme, renouvelle sur candidature ces nominations et promeut l’institutionnalisation de leurs réunions formelles régulières et informelles en fonction des occasions (besoins, contextes, aléas) à leur initiative ou à la suite de sollicitations du CA du COPAAH. Toute idée, interrogation, question doit être admissible et le contenu de ces réunions doit être pris en compte par le CA. 
+
+Dans ce cadre il se doit d’organiser des journées régionales thématiques seul ou en partenariat, sans se substituer à l’existant, en s’appuyant sur le réfèrent régional, en en programmant les thématiques et les lieux le plus tôt possible, en les ouvrant aux membres du COPAAH uniquement ou à tout soignant en addictologie en fonction de leur intérêt, en s’assurant que ces rencontres produisent une intersection entre les savoirs formels « descendants » et les savoirs expérientiels « ascendants » afin qu’ils entrent en résonance, y compris avec des intervenants de sociétés savantes et du milieu de la recherche et des représentants des ARS.  
+
+Depuis 2022, avec la mise en place progressive des journées régionales et en 2024 un renforcement de la représentation régionale (presque toutes les régions sont représentées sauf la Guadeloupe et la Corse) les référents régionaux, désignés par le CA sur candidature, sont en charge sous la bienveillante coordination du Pr Georges Brousse, vice-président du COPAAH:
+- de l’organisation de colloques et/ou d’interventions lors d’évènements scientifiques et professionnels, des échanges avec les ARS, 
+- du relevé régional de l’offre de soins hospitalière, 
+- de l’identification des problématiques rencontrées et des expérience menées, 
+- des relations avec le médico-social, le social et tous les partenaires des soins aux patients. 
+
+Les ARS ont été officiellement re-sollicitées par courrier afin de les informer de l’existence, parfois oubliée, de cette représentation du COPAAH en région et de notre volonté de participer activement à la réflexion menée sur les parcours de soins, la gradation de soins 
+labellisée, la collaboration avec l’ensemble des acteurs de l’addictologie.
+
+
+### En pratique: devenir représentant régional
+
+Tout adhérent volontaire peut poser sa candidature **via le formulaire dédié (lien de téléchargement)**  à la représentation régionale du COPAAH auprès:
   - des tutelles régionales et locales et 
   - des partenaires concernés par la formation, la prévention, le traitement, la réduction des risques et les pathologies associées (somatiques, psychiques et sociales) en lien avec l’addictologie. 
 
 Son mandat prévoit sa participation aux différents groupes de travail régionaux en Addictologie (Evaluation de l’existant et des besoins, commission régionale addictions, SROS, schéma régional médico-social, interactions et complémentarité etc.).
 
-Il est également le.a référent.e des éventuelles journées régionales portées par le CoPAAH seul ou en association avec d’autres instances addictologiques loco-régionales
+Il est également le.a référent.e des éventuelles journées régionales portées par le COPAAH seul ou en association avec d’autres instances addictologiques loco-régionales
 
 Les candidatures sont examinées par le CA. Deux représentants par région peuvent être désignés.
 
@@ -437,12 +485,14 @@ Les candidatures sont examinées par le CA. Deux représentants par région peuv
 
 ---
 
+<!-- 
 ## Autres
 
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 
 {{< alert icon="circle-info" cardColor="#ffb73b" iconColor="#ffffff" textColor="#000000" >}}
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-{{< /alert >}}
+{{< /alert >}} 
+-->
 
 <br><br><br>

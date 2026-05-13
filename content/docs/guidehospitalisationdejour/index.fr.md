@@ -1,5 +1,5 @@
 ---
-title: "L’Hôpital de Jour en Addictologie (HDJA) : Un levier pour des parcours de soins innovants"
+title: "L’Hôpital de Jour en Addictologie (HDJ-A) : Un outil de soins souple et toujours innovant"
 description: "Découvrez le guide pratique du COPAAH sur les Hôpitaux de Jour en Addictologie (HDJA), un outil clé pour des soins intensifs et personnalisés."
 weight: 1
 date: 2024-06-20
@@ -13,7 +13,7 @@ tags: ["HDJA", "Addiction", "Soins ambulatoires", "Pluridisciplinarité", "Guide
 
 
 {{< lead >}}
-L’**Hôpital de Jour en Addictologie (HDJA)** est un dispositif **intermédiaire entre l’hospitalisation complète et le suivi ambulatoire**, offrant des **soins intensifs et pluridisciplinaires** tout en maintenant les patients dans leur environnement naturel. Ce guide pratique, élaboré par le **COPAAH**, clarifie le cadre réglementaire, les missions et propose des **programmes thérapeutiques adaptés** pour les professionnels.
+L’**Hôpital de Jour en Addictologie (HDJA)** est un dispositif **intermédiaire entre l’hospitalisation complète et le suivi ambulatoire**, offrant des **soins intensifs et pluridisciplinaires** tout en maintenant les patients dans leur environnement naturel. Ce guide pratique, élaboré par le **COPAAH**, clarifie le cadre réglementaire, les missions et propose des **programmes thérapeutiques adaptés**.
 {{< /lead >}}
 
 

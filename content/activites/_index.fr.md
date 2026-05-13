@@ -9,27 +9,35 @@ description: "Activités de l'association COPAAH"
 # series_order: 3
 ---
 
+<!-- 
 {{< lead >}}
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. **Faces illo pepulere** tempus adest.
-{{< /lead >}}
+{{< /lead >}} 
+-->
 
 ## Instances
 
-Le COPAAH établit chaque année des rapports d’activités publics présentés lors des assemblées générales annuelles de l'association que vous pouvez retrouver également sur la page [Ressources / Documentation ](/docs/#ressources-du-copaah). Les comptes rendus des conseils d'administration et des rencontres des représentants régionaux sont eux accessibles aux adhérents de l’association.
+Le COPAAH établit chaque année des rapports d’activités publics présentés lors des assemblées générales annuelles de l'association que vous pouvez retrouver également sur la page [Ressources / Documentation ](/docs/#ressources-du-copaah). Les comptes rendus des conseils d’administration et des rencontres des représentants régionaux sont eux **accessibles uniquement à leurs membres**.
 
-{{< alert icon="circle-info" cardColor="#6ab4ff" iconColor="#ffffff" textColor="#000000" >}}
-Accéder aux [rapports d'activités du COPAAH](https://drive.google.com/drive/folders/1c6eZzgZiAfB2ro_DPBJhBxfWACc7f4jY)
+{{< alert icon="circle-info" cardColor="#dbeaff" iconColor="#ffffff" textColor="#000000" >}}
+Accéder aux [rapports d'activités du COPAAH](https://drive.google.com/drive/folders/1c6eZzgZiAfB2ro_DPBJhBxfWACc7f4jY) (réservé aux adhérents) 
 {{< /alert >}}
 
 <br>
 
 {{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
-Accéder aux [comptes rendus des CA du COPAAH](https://drive.google.com/drive/folders/1Pc4JWYgNDG4ovNyi-W9gW7VwBgzA8-xw) (réservé aux adhérents) 
+Accéder aux [comptes rendus des CA du COPAAH](https://drive.google.com/drive/folders/1Pc4JWYgNDG4ovNyi-W9gW7VwBgzA8-xw) (réservé aux administrateurs) 
+{{< /alert >}}
+
+<br>
+
+{{< alert icon="circle-info" cardColor="#dbeaff" iconColor="#ffffff" textColor="#000000" >}}
+Accéder aux [comptes rendus des Rencontres des représentants régionaux](https://drive.google.com/drive/folders/1l4sXwcDcpgr-Wr5lr2eEDQCvbQTVUhTi) (réservé aux représentants régionaux)
 {{< /alert >}}
 
 
 {{< figure
-  src="COPAAH_logobureau.png"
+  src="imageIA_fourniparCOPAAH.png"
   alt="Image de séparation"
   caption="image de séparation"
   class="centre"
@@ -44,68 +52,70 @@ Accéder aux [comptes rendus des CA du COPAAH](https://drive.google.com/drive/fo
 
 Le CoPAAH organise à l’occasion de chaque fin d’exercice annuel une Journée Nationale de travail en présentiel en direction de ses adhérents. L’inscription à cette journée est entièrement gratuite pour les adhérents à jour de leur cotisation et les intervenants. Elle comprend l’accueil, le  repas et les pauses. Si des personnes non adhérentes souhaitent y participer, elles devront s’acquitter du repas s’il est pris sur place. Les Journées Nationales annuelles ont lieu le même jour que l’Assemblée Générale.
 
-Depuis 2026, une Journée Nationale plus largement ouverte aux personnes des établissements sanitaires intéressés par la thématique abordée est organisée. Les modalités d’inscription sont identiques. 
+Depuis 2026, une Journée Nationale, en format mixte (présentiel et distanciel), plus largement ouverte aux personnes des établissements sanitaires intéressés par la thématique abordée et est organisée. Les modalités d’inscription sont identiques. 
 
-La thématique de cette première journée concerne les HDJ-A et aura lieu le **29 mai 2026 au ministère de la santé.**
+La thématique de la **première Journée Ouverte du COPAAH** concerne les **HDJ-A** et a lieu le **29 mai 2026 au Ministère de la Santé**. Les inscriptions sont désormais closes
 
-[Journées 2026](/docs/journeescopaah2026)
-(descriptif / programme / inscription --> billeterie HelloAsso)
+[Plus d'information sur la Journée Nationale 2026](/docs/journeescopaah2026) 
 
-**--> voir lien vers la présentation / publication / annonce des Journées COPAAH 2026 (programme, inscription, billeterie etc.)**
+<br>
 
-POUR CHAQUE ANNEE
-**A classer année par année car ponctuelles (liste à fournir):**
- - formulaire d’inscription 
- - attestation d’inscription
- - attestation de présence modèles
-
-{{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
-Accéder à la documentation complète des Journées Nationales du COPAAH (réservé aux adhérents) : programme, présentations etc.
+{{< alert icon="circle-info" cardColor="#ff8b8be4" iconColor="#ffffff" textColor="#ffffff" >}}
+La thématique de la **Journée Nationale de fin d’exercice 2026** réservée aux adhérents est **en cours de préparation**
+Toutes les informations nécessaires afin de permettre de s’y inscrire seront données en temps utile ainsi qu’à l’occasion de chaque journée organisée.
 {{< /alert >}}
 
 <br>
 
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2025](https://drive.google.com/drive/folders/1MM0IWd8vf-ogDRjTtJx6jdfFB9PD5iiY) <br>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2024](https://drive.google.com/drive/folders/1WmZV-EWevI2OiGJtz7cjomfocE9Nym9T) <br>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2023](https://drive.google.com/drive/folders/1ZcuhzxqugIotmUCwssAlj16vMKOKxZLv) <br>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2022](https://drive.google.com/drive/folders/1KxYM_DzLDCD363OFUqqRIFu7uqPY8_V5) <br>
-{{< icon "stack-overflow" >}}  --> [Journées Nationales 2021](https://drive.google.com/drive/folders/16E11mxjhr0JjANYu9jUP6Zd4-_yPME_X) <br>
-{{< icon "stack-overflow" >}}  --> [Archives](https://drive.google.com/drive/folders/1Lyi8J8OUhjsMy2HOMgZown4ySDYXfe91) <br>
+**A METTRE A JOUR**
+- Journée nationale ouverte HDJ-A --> Dossier pour Drive avec:
+   * programme, 
+   * listes des inscrits (présentiel et distanciel),
+   * affiche,
+   * formulaires d’inscription, 
+   * formulaires d’attestation d’inscription, 
+   * fiche d’attestation de présence, 
+   * formulaire d’autorisation d’exploitation du droit à l’image etc.
+- Documents à classer (nombreux) dans un dossier « archives secrétariat » 
+   * à conserver car renseignements utiles sur les inscrits 
+   * ajouts de modèles à prévoir
 
 
-MANQUE
- - Liste inscrits.pdf ?
+{{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
+Accéder à la documentation complète des [Journées Nationales du COPAAH](https://drive.google.com/drive/folders/1Lyi8J8OUhjsMy2HOMgZown4ySDYXfe91). Celle-ci est réservée aux adhérents ainsi qu'aux participants sur demande : programme, supports de présentation etc.
+{{< /alert >}}
 
-Les présentations générales des Journées sont disponibles **(mettre lien vers Ressources#Journées Nationales
+<br>
 
+{{< icon "stack-overflow" >}}  --  [Journée Nationale 2025](https://drive.google.com/drive/folders/1MM0IWd8vf-ogDRjTtJx6jdfFB9PD5iiY) <br>
+{{< icon "stack-overflow" >}}  --  [Journée Nationale 2024](https://drive.google.com/drive/folders/1WmZV-EWevI2OiGJtz7cjomfocE9Nym9T) <br>
+{{< icon "stack-overflow" >}}  --  [Journée Nationale 2023](https://drive.google.com/drive/folders/1ZcuhzxqugIotmUCwssAlj16vMKOKxZLv) <br>
+{{< icon "stack-overflow" >}}  --  [Journée Nationale 2022](https://drive.google.com/drive/folders/1KxYM_DzLDCD363OFUqqRIFu7uqPY8_V5) <br>
+{{< icon "stack-overflow" >}}  --  [Journée Nationale 2021](https://drive.google.com/drive/folders/16E11mxjhr0JjANYu9jUP6Zd4-_yPME_X) <br>
+{{< icon "stack-overflow" >}}  --  [Archives](https://drive.google.com/drive/folders/1Lyi8J8OUhjsMy2HOMgZown4ySDYXfe91) <br>
 
-#### Journées régionales
+<br>
 
-Le COPAAH organise (ou participe) depuis 2022 à des journées régionales dont les promoteurs sont les représentants régionaux. Les modalités d'inscription sont identiques à celles des journées nationales.   
+#### Journées Régionales
+
+Le COPAAH organise (ou participe) depuis 2022 à des Journées Régionales dont les promoteurs sont les représentants régionaux. Les modalités d'inscription sont identiques à celles des Journées Nationales.   
 
 La Première Journée Régionale du COPAAH  en collaboration avec  le CH Le Vinatier et les professionnels en addictologie  de la région AuRA a eu lieu le **13 avril 2022** au CH le Vinatier à Bron sur le thème de l'HDJ Addictologique dont le CoPAAH continue à affirmer l’importance dans le parcours de soins.
 
 
-**A classer année par année car ponctuelles (liste à fournir)**
+{{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
+Accéder à la documentation complète des [Journées Régionales du COPAAH](https://drive.google.com/drive/folders/1dj62kynaxPNoiqQAVYgMw-JxaetpGF7C). Celle-ci est réservée aux adhérents ainsi qu'aux participants sur demande : programme, supports de présentation etc.
+{{< /alert >}}
 
----> LIEN VERS DOSSIER JOURNEES REGIONALES (par année)
-📂 Année (schéma à répéter)
- - Programme.pdf
- - Liste inscrits.pdf ?
- - Interventions_Presentations (Dossier)
+<br>
 
-EXEMPLE:
+{{< icon "stack-overflow" >}}  --  [Journée Régionale 2022](https://drive.google.com/drive/folders/1jJn41tqvJERJu2_WtTqxa0ApAO1DJUx2) <br>
 
-📂[Journées 2025](/docs/journeescopaah2025) <br>
-📂[Journées 2024](/docs/journeescopaah2024) <br>
-📂[Journées 2023](/docs/journeescopaah2023) <br>
-
----> Afficher les 4 dernières années
----> Livrables / Archives des différentes journées: dans Ressources
+<br>
 
 
 {{< figure
-  src="COPAAH_logobureau.png"
+  src="imageIA_fourniparCOPAAH.png"
   alt="Image de séparation"
   caption="image de séparation"
   class="centre"
@@ -132,7 +142,7 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
 ```
 
 {{< figure
-  src="COPAAH_logobureau.png"
+  src="imageIA_fourniparCOPAAH.png"
   alt="Image de séparation"
   caption="image de séparation"
   class="centre"

@@ -1,14 +1,14 @@
 ---
-title: "Journées Nationales du COPAAH 2021"
+title: "Journée Nationale du COPAAH 2021"
 weight: 5
 draft: false
-description: "Découvrez le programme et la rétrospective des Journées du COPAAH 2021"
+description: "Découvrez le programme et la rétrospective de la Journée du COPAAH 2021"
 tags: ["journées"]
 #series: ["Documentation"]
 #series_order: 12
 ---
 
-# 10èmes Journées Nationales du COPAAH 2021 : Transversalité et parcours de soins addictologiques hospitaliers
+# 10ème Journée Nationale du COPAAH 2021 : Transversalité et parcours de soins addictologiques hospitaliers
 **Lieu et date :**
 - Centre Hospitalier Spécialisé Paul Guiraud (Villejuif).
 - Vendredi 19 novembre 2021
@@ -87,7 +87,7 @@ Explorer les **guides pratiques** publiés par ELSA France et la Fédération Ad
 
 ## Conclusion
 
-Ces journées ont mis en lumière l’importance d’une **approche intégrée** et **territorialisée** pour répondre aux défis posés par les addictions, en combinant expertise médicale, psychiatrique, et sociale. Les réformes en cours et le renforcement des structures comme les ELSA et les SSR spécialisés devraient permettre d’améliorer significativement la prise en charge des patients.
+Cette journée a mis en lumière l’importance d’une **approche intégrée** et **territorialisée** pour répondre aux défis posés par les addictions, en combinant expertise médicale, psychiatrique, et sociale. Les réformes en cours et le renforcement des structures comme les ELSA et les SSR spécialisés devraient permettre d’améliorer significativement la prise en charge des patients.
 
 ---
 

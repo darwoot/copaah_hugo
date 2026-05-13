@@ -1,5 +1,5 @@
 ---
-title: "Journées Nationales du COPAAH 2026"
+title: "Journée Nationale du COPAAH 2026"
 weight: 10
 draft: false
 description: "Découvrez le programme et inscrivez-vous aux Journées du COPAAH 2026"
@@ -9,7 +9,7 @@ tags: ["nouveau", "journées"]
 ---
 
 {{< lead >}}
-Programme prévisionnel et Inscription aux Journées Nationales du COPAAH 2026
+Programme prévisionnel et Inscription à la Journée Nationale du COPAAH 2026
 {{< /lead >}}
 
 ---
@@ -22,4 +22,4 @@ Lien vers [la billeterie des Journées Nationales du COPAAH](https://www.helloas
 
 ## Programme
 
-En cours de préparation
+![Image avec texte alternatif](affiche.png)

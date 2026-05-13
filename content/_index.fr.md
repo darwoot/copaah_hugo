@@ -34,15 +34,25 @@ npx blowfish-tools
     muted=true
 >}} -->
 
+
+
 <div class="landingpage_content">
   
   ## Actualités
 
-  ### S'inscrire aux prochaines Journées Nationales du COPAAH
+  ### S'inscrire à la prochaine Journée du COPAAH
 
-  {{< alert icon="circle-info" cardColor="#6ab4ff" iconColor="#ffffff" textColor="#000000" >}}
-  Les prochaines **Journées Nationales du COPAAH** auront lieu le XX/XX/XX à l'hôpital XXXXXXXXXX. Le thème central sera XXXXXXXXXXXXXXX. Les inscriptions sont ouvertes et accessibles [à l'adresse suivante](https://www.helloasso.com/associations/college-professionnel-des-acteurs-de-l-addictologie-hospitaliere/evenements/journees-nationales-copaah-2026/)
+  <br>
+
+  {{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
+  La prochaine **Journée Nationale/Régionale du COPAAH** aura lieu le XX/XX/XX à à XXXXXXX. Le thème central sera XXXXXXX. Les inscriptions seront ouvertes et accessibles prochainement [ici](https://www.helloasso.com/associations/college-professionnel-des-acteurs-de-l-addictologie-hospitaliere/evenements/)
   {{< /alert >}}
+
+  <br>
+
+  <iframe id="haWidgetButton" allowtransparency="true" src="https://www.helloasso.com/associations/college-professionnel-des-acteurs-de-l-addictologie-hospitaliere/evenements/journees-nationales-copaah-2026/widget-bouton" style="width: 100%; height: 70px; border: none;">
+  </iframe>
+
 
 </div>
 
