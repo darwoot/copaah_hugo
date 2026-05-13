@@ -194,3 +194,12 @@ h3,h4,h5,h6 {
 .partnertype {
   font-size: 10px;
 }
+
+
+/* ACTIVITES */
+
+.figureInText {
+    width: 350px;
+    margin: auto;
+    border-radius: 20px;
+}

@@ -39,9 +39,11 @@ Accéder aux [comptes rendus des Rencontres des représentants régionaux](https
 {{< figure
   src="imageIA_fourniparCOPAAH.png"
   alt="Image de séparation"
-  caption="image de séparation"
-  class="centre"
+  caption=""
+  class="figureInText"
 >}}
+
+---
 
 
 ## Evènements
@@ -56,12 +58,12 @@ Depuis 2026, une Journée Nationale, en format mixte (présentiel et distanciel)
 
 La thématique de la **première Journée Ouverte du COPAAH** concerne les **HDJ-A** et a lieu le **29 mai 2026 au Ministère de la Santé**. Les inscriptions sont désormais closes
 
-[Plus d'information sur la Journée Nationale 2026](/docs/journeescopaah2026) 
+[Plus d'information sur la Journée Nationale 2026](/docs/journeenationaleouverte2026) 
 
 <br>
 
 {{< alert icon="circle-info" cardColor="#ff8b8be4" iconColor="#ffffff" textColor="#ffffff" >}}
-La thématique de la **Journée Nationale de fin d’exercice 2026** réservée aux adhérents est **en cours de préparation**
+La thématique de la **Journée Nationale de fin d’exercice 2026** réservée aux adhérents est **en cours de préparation**. 
 Toutes les informations nécessaires afin de permettre de s’y inscrire seront données en temps utile ainsi qu’à l’occasion de chaque journée organisée.
 {{< /alert >}}
 
@@ -117,8 +119,8 @@ Accéder à la documentation complète des [Journées Régionales du COPAAH](htt
 {{< figure
   src="imageIA_fourniparCOPAAH.png"
   alt="Image de séparation"
-  caption="image de séparation"
-  class="centre"
+  caption=""
+  class="figureInText"
 >}}
 
 ### Ateliers & Wébinaires
@@ -127,31 +129,18 @@ Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more--> Redit
 
 Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
 
-
-
-```html
-<!-- Markdown: ![Mon image](image.jpg) -->
-<img
-  srcset="
-    /image_320x0_resize_q75_box.jpg 320w,
-    /image_635x0_resize_q75_box.jpg 635w,
-    /image_1024x0_resize_q75_box.jpg 1024w"
-  src="/image_635x0_resize_q75_box.jpg"
-  alt="Mon image"
-/>
-```
-
 {{< figure
   src="imageIA_fourniparCOPAAH.png"
   alt="Image de séparation"
-  caption="image de séparation"
-  class="centre"
+  caption=""
+  class="figureInText"
 >}}
 
+---
 
 ## Groupes de Travail
 
-[NB: Francoise ALBERTINI: il en manque il faut que je les retrouve]
+Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more--> Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 ### Avant 2020
 - SMRA
@@ -162,17 +151,13 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
 - Hôpitaux de jour production d’un guide pratique, paru en 2024 
 - Troubles cognitifs liés aux addictions, actualisation des recommandations, COPIL en cours
 
----> Accès aux travaux
-Page Ressources ou lien comme pour les Journées.
+
+{{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
+Accéder aux [travaux](https://drive.google.com/drive/folders/18RcjKVGy6HKcYXftN9JNRutsmP4BkMSl) réalisés dans le cadre des groupes de travail du COPAAH. L'accès aux documents est réservé aux adhérents ainsi qu'aux participants sur demande : programme, supports de présentation etc.
+{{< /alert >}}
 
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
-
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
-
+Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more--> Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 
 
@@ -186,4 +171,4 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
   src="/image_635x0_resize_q75_box.jpg"
   alt="Mon image"
 />
-```
+``` 

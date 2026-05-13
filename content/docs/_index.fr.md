@@ -1,5 +1,5 @@
 ---
-title: "Ressources du CoPAAH"
+title: "Ressources du COPAAH"
 description: "Ensemble des ressources documentaires et partenaires du COPAAH"
 layout: "simple"
 
@@ -113,13 +113,13 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 {{< /lead >}}
 
 
-## Ressources du COPAAH
+## Documentation produite par le COPAAH
 
 Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
 
-—> A construire entièrement par le COPAAH
-—> Organisation du contenu (sur site et sur le cloud partagé)
-—> Quelles ressources sont mises à dispo à fournir
+—> A construire entièrement par le COPAAH <br>
+—> Organisation du contenu (sur site et sur le cloud partagé) <br>
+—> Quelles ressources sont mises à dispo à fournir <br>
 
 * Rétrospectives des Journées Nationales et Régionales année par année avec programme, support de présentation et/ou webinaires
 * Ateliers webinaires
@@ -132,8 +132,17 @@ Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
 {{< article link="/docs/guidehospitalisationdejour/" showSummary=true compactSummary=true >}}
 
 ### Exemple: Journées Nationales et Régionales du COPAAH 
+<br>
 
-{{< listbytag cardView=true limit=10 tag="journées" >}}
+#### Nationales
+<br>
+{{< listbytag cardView=true limit=10 tag="nationales" >}}
+<br>
+
+#### Régionales
+<br>
+{{< listbytag cardView=true limit=10 tag="régionales" >}}
+<br>
 
 ## Ressources partenaires
 

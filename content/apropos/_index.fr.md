@@ -343,11 +343,11 @@ Le titre de cette nouvelle association est choisi, COPAAH « **CO**llège **P**r
 Quelle que soit leur association préexistante et leur établissement d’affectation, la représentation retenue est celle de personnes physiques volontaires. Les statuts sont élaborés, signés le 10 septembre 2007 et déposés en préfecture. Le COPAAH, association loi de 1901 naît sous cette forme le 05 Octobre 2007. Les statuts paraissent au JO le 3 novembre. Ils ont été modifiés et adoptés en AGE du 15 octobre 2021 sous la présidence du Dr. Vanghélis ANASTASSIOU
 {{< /alert >}}
 
-
+<!-- 
 **Rédaction:** 
 Dr. Françoise ALBERTINI, 
 Secrétaire du COPAAH 
-
+ -->
 
 ### Interview du Pr. François PAILLE
 

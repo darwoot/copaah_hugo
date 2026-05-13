@@ -4,6 +4,8 @@ description: "Découvrez le guide pratique du COPAAH sur les Hôpitaux de Jour e
 weight: 1
 date: 2024-06-20
 draft: false
+editURL: "https://github.com/darwoot/copaah_hugo/edit/main/content/docs/guidehospitalisationdejour/index.fr.md"
+editAppendPath: false
 authors: ["COPAAH"]
 categories: ["Addictologie", "Parcours de soins", "Nouveau", "Documentation"]
 tags: ["HDJA", "Addiction", "Soins ambulatoires", "Pluridisciplinarité", "Guide pratique"]

@@ -102,11 +102,31 @@
     </item>
     
     <item>
+      <title>Nationales</title>
+      <link>http://localhost:1313/tags/nationales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/tags/nationales/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Nouveau</title>
       <link>http://localhost:1313/tags/nouveau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>secretariat@copaah.fr (COPAAH)</author>
       <guid>http://localhost:1313/tags/nouveau/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Régionales</title>
+      <link>http://localhost:1313/tags/r%C3%A9gionales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>secretariat@copaah.fr (COPAAH)</author>
+      <guid>http://localhost:1313/tags/r%C3%A9gionales/</guid>
       <description></description>
       
     </item>
