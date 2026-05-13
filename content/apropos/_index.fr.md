@@ -299,14 +299,14 @@ representation2:
 
 
 {{< lead >}}
-Le CoPAAH, **Co**llège **P**rofessionnel des **A**cteurs de l'**A**ddictologie **H**ospitalière est une Association Loi de 1901 créée le 05 Octobre 2007 pour représenter les professionnels de l’addictologie hospitalière auprès des autorités publiques et des instances nationales, régionales et locales.
+Le COPAAH, **Co**llège **P**rofessionnel des **A**cteurs de l'**A**ddictologie **H**ospitalière est une Association Loi de 1901 créée le 05 Octobre 2007 pour représenter les professionnels de l’addictologie hospitalière auprès des autorités publiques et des instances nationales, régionales et locales.
 {{< /lead >}}
 
 ---
 
 ## Missions
 
-Les missions du CoPAAH sont les suivantes:
+Les missions du COPAAH sont les suivantes:
 
 - **Participer à la réflexion et à la mise en œuvre de l’offre de soins hospitalière en addictologie** tant sur le plan national que régional, et dans ce cadre participe à l’élaboration d’outils : dossier patient, cahiers des charges, financement, développement du rôle des structures
 hospitalières dans l’enseignement, la formation et la recherche en collaboration avec des

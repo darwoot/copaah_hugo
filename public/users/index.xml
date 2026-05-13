@@ -11,35 +11,5 @@
     <copyright>Copyright © 2026 COPAAH - Webdesign: AMoscaBianca. Tous droits réservés.</copyright>
     <atom:link href="http://localhost:1313/users/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>n9o.xyz</title>
-      <link>http://localhost:1313/users/0-e8b2eb823290677fbba3390d5cef2c35/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>secretariat@copaah.fr (COPAAH)</author>
-      <guid>http://localhost:1313/users/0-e8b2eb823290677fbba3390d5cef2c35/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/0-e8b2eb823290677fbba3390d5cef2c35/feature.webp" />
-    </item>
-    
-    <item>
-      <title>madoke.org</title>
-      <link>http://localhost:1313/users/1-96d3e57dcc931de55cc23a825d40be2c/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>secretariat@copaah.fr (COPAAH)</author>
-      <guid>http://localhost:1313/users/1-96d3e57dcc931de55cc23a825d40be2c/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1-96d3e57dcc931de55cc23a825d40be2c/feature.webp" />
-    </item>
-    
-    <item>
-      <title>code-chimp.com</title>
-      <link>http://localhost:1313/users/2-4bc0917e04c4859cedb32a48bff27846/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>secretariat@copaah.fr (COPAAH)</author>
-      <guid>http://localhost:1313/users/2-4bc0917e04c4859cedb32a48bff27846/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/2-4bc0917e04c4859cedb32a48bff27846/feature.webp" />
-    </item>
-    
   </channel>
 </rss>

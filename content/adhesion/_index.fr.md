@@ -21,15 +21,13 @@ Sur la base du volontariat individuel l’adhésion permet l’implication de l�
 Toute première demande est soumise à l’approbation du CA.  
 
 ### 1 - Formulaire à remplir et à transmettre par e-mail
-Pour ce faire, le formulaire suivant est à remplir et à transmettre à l'adresse suivante       
-**secretariat@copaah.fr**
 
 Pour ce faire, le formulaire suivant est à remplir et à transmettre à l’adresse suivante
 **tresorerie@copaah.fr**, mettre en copie également **secretariat@copaah.fr**  
 
 ![Bulletin de demande d'adhésion](img_bulletinadhesion.png)
 {{< button href="bulletin_adhesion_copaah_v1.pdf" target="_blank" >}}
-    Télécharger le bulletin de demande d'adhésion **METTRE A JOUR DOCUMENT**
+    Télécharger le bulletin de demande d'adhésion *--> METTRE A JOUR DOCUMENT*
 {{< /button >}}
 
 
@@ -46,6 +44,5 @@ Une attestation de cotisation vous sera transmise dès réception des frais d’
 
 ## Faire un don à l'association (facultatif)
 
-Le COPAAH n’ayant comme ressources que les cotisations de ses adhérents tout don est le bienvenu.
+Le COPAAH n’ayant comme ressources que les cotisations de ses adhérents tout don est le bienvenu. <br>
 
-<br><br>

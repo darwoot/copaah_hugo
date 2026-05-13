@@ -10,10 +10,11 @@ tags: ["journées", "régionales"]
 #series_order: 11
 ---
 
-# **1ère Journée Régionale du COPAAH en Auvergne-Rhône-Alpes (AuRA)** : L’Hôpital de Jour en Addictologie, un levier pour des parcours de soins innovants
+# **1ère Journée Régionale du COPAAH (2022) en Auvergne-Rhône-Alpes (AuRA)** : L’Hôpital de Jour en Addictologie, un levier pour des parcours de soins innovants
 
 **Lieu et date :**
-Mercredi 13 avril 2022, Hôpital Le Vinatier, Bron (69).
+Mercredi 13 avril 2022, <br>
+Hôpital Le Vinatier, BRON (69).
 
 ---
 
