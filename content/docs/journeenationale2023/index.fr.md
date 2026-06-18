@@ -28,7 +28,7 @@ La 12ème Journée Nationale du COPAAH a mis en lumière les **enjeux de la coor
 
 ### 1. Offre hospitalière en addictologie : État des lieux et perspectives
 
-**Claire Sixdenier et Dr Laure Poirat (DGOS)** ont présenté les résultats d’une **enquête nationale** sur l’offre hospitalière en addictologie, révélant :
+**Claire Sixdenier et Laure Poirat (DGOS)** ont présenté les résultats d’une **enquête nationale** sur l’offre hospitalière en addictologie, révélant :
 - **504 établissements** répondants, avec un taux de réponse de 62%.
 - **282 établissements autorisés en MCO**, 103 en psychiatrie, et 79 en SSR (Soins de Suite et de Réadaptation).
 - **183 HDJA (Hospitalisations de Jour en Addictologie)** recensées, avec une **hétérogénéité des programmes** et des **équipes pluridisciplinaires** (infirmiers, psychologues, addictologues).

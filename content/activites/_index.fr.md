@@ -37,7 +37,7 @@ Accéder aux [comptes rendus des Rencontres des représentants régionaux](https
 
 
 {{< figure
-  src="imageIA_fourniparCOPAAH.png"
+  src="imageSeparation.png"
   alt="Image de séparation"
   caption=""
   class="figureInText"
@@ -117,7 +117,7 @@ Accéder à la documentation complète des [Journées Régionales du COPAAH](htt
 
 
 {{< figure
-  src="imageIA_fourniparCOPAAH.png"
+  src="imageSeparation.png"
   alt="Image de séparation"
   caption=""
   class="figureInText"
@@ -130,7 +130,7 @@ Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more--> Redit
 Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
 
 {{< figure
-  src="imageIA_fourniparCOPAAH.png"
+  src="imageSeparation.png"
   alt="Image de séparation"
   caption=""
   class="figureInText"

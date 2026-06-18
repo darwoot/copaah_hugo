@@ -199,7 +199,32 @@ h3,h4,h5,h6 {
 /* ACTIVITES */
 
 .figureInText {
-    width: 350px;
+    width: 190px;
     margin: auto;
-    border-radius: 20px;
+    border-radius: 50px;
+}
+
+
+/* ADHESION */
+
+.img_BulletinAdhesion {
+    width: 320px;
+    /* display: block; */
+    /* text-align: center; */
+    margin: auto;
+}
+
+#dl_form {
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 260px;
+}
+
+/* .thumbnail-card img.object-cover {
+    object-fit: scale-down;
+} */
+
+.object-cover {
+    object-fit: contain;
 }
