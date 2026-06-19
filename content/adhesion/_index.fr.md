@@ -49,6 +49,8 @@ Un lien vers le paiement de l'adhésion en ligne vous sera transmis.
 
 [Exemple de lien reçu par email suite à une demande d'adhésion validée](https://www.helloasso.com/associations/college-professionnel-des-acteurs-de-l-addictologie-hospitaliere/adhesions/adhesion-copaah-20262027)
 
+<iframe id="haWidgetVignette" allowtransparency="true" src="https://www.helloasso.com/associations/college-professionnel-des-acteurs-de-l-addictologie-hospitaliere/adhesions/adhesion-copaah-20262027/widget-vignette" style="width: 100%; height: 513px; border: none; margin: auto;"></iframe>
+
 Il n'est pas accessible directement sur la plateforme pour faciliter la démarche de demande d'adhésion et éviter les adhésions non validées par le CA. Pour des raisons diverses, seuls les paiements par carte bancaire sont désormais acceptés.
 
 Les règlements par virement bancaire, par chèque ou en espèces ne sont plus acceptés sauf cas de force majeure.

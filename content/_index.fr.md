@@ -40,11 +40,7 @@ npx blowfish-tools
   
   ## Actualités
 
-  ### S'inscrire à la prochaine Journée du COPAAH
-
-  <br>
-
-  {{< alert icon="circle-info" cardColor="#ffcc66" iconColor="#ffffff" textColor="#000000" >}}
+  {{< alert icon="circle-info" cardColor="#dbeaff" iconColor="#32b1ff" textColor="#000000" >}}
   La prochaine **Journée Nationale/Régionale du COPAAH** aura lieu le XX/XX/XX à à XXXXXXX. Le thème central sera XXXXXXX. Les inscriptions seront ouvertes et accessibles prochainement [ici](https://www.helloasso.com/associations/college-professionnel-des-acteurs-de-l-addictologie-hospitaliere/evenements/)
   {{< /alert >}}
 

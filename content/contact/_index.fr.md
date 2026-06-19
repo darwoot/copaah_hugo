@@ -65,23 +65,27 @@ Vous souhaitez nous contacter ? Envoyez-nous un message à l'aide du formulaire 
                 <strong>Votre nom:</strong>
             </label>
             <input type="text" name="name" class="block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="Nom & Prénom" required>
+            <br>
             <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-50">
                 <strong>Votre e-mail: (pour pouvoir vous répondre)</strong>
             </label>
             <input type="email" name="email" class="block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="nom@exemple.com" required>
         </div> 
+        <br>        
         <div class="my-4">
             <label for="subject" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-50">
                 <strong>Objet:</strong>
             </label>
             <input type="text" name="subject" class="block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500" placeholder="Comment pouvons-nous vous aider ?" required>
         </div>
+        <br> 
         <div class="my-4 sm:col-span-2">
             <label for="message" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-50">
                 <strong>Votre message: (mentionner si possible votre fonction)</strong>
             </label>
             <textarea id="message" name="message" rows="6" class="block p-2.5 w-full text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm placeholder:text-gray-500 text-md focus:ring-white focus:border-white dark:bg-gray-700 dark:border-gray-600 dark:placeholder:text-gray-300 dark:text-white dark:focus:ring-white dark:focus:border-white" placeholder="Ecrivez votre message ici..."></textarea>
         </div>
+        <br> 
         <div class="mt-6 lg:pb-16">
             <button type="submit" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">Envoyer</button>
         </div>
